@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1497328762404">
+      <file name="/a.dummy" timestamp="1497361993279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" timestamp="1496784166805">
@@ -51,12 +51,12 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1497328756009">
-        <mark key="a" line="198" column="0" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="^" line="211" column="23" />
-        <mark key="." line="227" column="0" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1497361987690">
+        <mark key="a" line="237" column="40" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="237" column="41" />
+        <mark key="^" line="237" column="40" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" timestamp="1497215536094">
         <mark key="[" line="5" column="8" />
@@ -74,13 +74,13 @@
         <mark key="." line="290" column="7" />
         <mark key="^" line="290" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" timestamp="1497304678412">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" timestamp="1497361936565">
         <mark key="a" line="179" column="43" />
         <mark key="'" line="155" column="20" />
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="40" column="39" />
-        <mark key="^" line="40" column="39" />
-        <mark key="." line="40" column="39" />
+        <mark key="[" line="236" column="11" />
+        <mark key="]" line="238" column="23" />
+        <mark key="^" line="238" column="23" />
+        <mark key="." line="238" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/TestWebPage.py" timestamp="1497245732380">
         <mark key="'" line="7" column="8" />
@@ -267,40 +267,40 @@
         <text encoding="base64">CiAgICBhZ2UgPSBFbnVtKCdhZ2UnLCB7J2xhdGUnOiBkYXlzX2xhdGUsICdwZW5kaW5nJzogZGF5c19wZW5kaW5nLCAnd2FybmluZyc6IGRheXNfd2FybmluZywKICAgICAgICAgICAgICAgICAgICAgICAnbWF4RGF5c0FjdGlvbic6IG1heF9kYXlzX2FjdGlvbiwgJ21heERheXNDT0UnOiBtYXhfZGF5c19jb2V9KQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVtYWlsQm9keSA9IHRleHQgKyBzZWxmLmVtYWlsQm9keQo=</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwZW5kVGFibGUoc2VsZiwgdGFibGUpOgogICAgICAgICIiIgogICAgICAgIHByZXBlbmRUYWJsZSggdGFibGUgKQoKICAgICAgICAgICAgVGhpcyBtZXRob2QgdGFrZXMgYW4gSFRNTFRhYmxlIGFuZCBwcmVwZW5kcyBpdCB0byB0aGUgY3VycmVudCBib2R5IG9mIHRoZSBlbWFpbAoKICAgICAgICAgICAgdGFibGUgLSBhIHZhbGlkIEhUTUxUYWJsZSBvYmplY3QKICAgICAgICAiIiIKCiAgICAgICAgc2VsZi5wcmVwZW5kX2JvZHkodGFibGUuZ2V0X3NvdXApCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>will convert rows of data into an HTML table (via</text>
       </register>
       <register name="/" type="4">
         <text>make_row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0YWcgPSBUYWcoc2VsZi5zb3VwLmJ1aWxkZXIsIG5hbWU9dGFnX3R5cGUpCiAgICAgICAgdGFnLnN0cmluZyA9IHRleHQKCiAgICAgICAgc2VsZi5ib2R5Lmluc2VydCgwLCB0YWcpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwZW5kVGFibGUoc2VsZiwgdGFibGUpOgogICAgICAgICIiIgogICAgICAgIHByZXBlbmRUYWJsZSggdGFibGUgKQoKICAgICAgICAgICAgVGhpcyBtZXRob2QgdGFrZXMgYW4gSFRNTFRhYmxlIGFuZCBwcmVwZW5kcyBpdCB0byB0aGUgY3VycmVudCBib2R5IG9mIHRoZSBlbWFpbAoKICAgICAgICAgICAgdGFibGUgLSBhIHZhbGlkIEhUTUxUYWJsZSBvYmplY3QKICAgICAgICAiIiIKCiAgICAgICAgc2VsZi5wcmVwZW5kX2JvZHkodGFibGUuZ2V0X3NvdXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVtYWlsQm9keSA9IHRleHQgKyBzZWxmLmVtYWlsQm9keQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVtYWlsQm9keSA9IHNlbGYuZm9ybWF0VGFibGUoaGVhZGVycywgcm93cykgKyBzZWxmLmVtYWlsQm9keQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVtYWlsQm9keSArPSB0ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhlIGNvbHVtbiBkYXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YWcgPSBUYWcoc2VsZi5zb3VwLmJ1aWxkZXIsIG5hbWU9J2gxJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGJsIC0gVGhlIHJvd3Mgb2YgdGFibGUgZGF0YSBhcyBhIGxpc3QuIEVhY2ggcm93IGlzIGEgdHVwbGUgb2YK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJlcGVuZF9oZWFkZXIoc2VsZiwgdGV4dCk6CiAgICAgICAgIiIiCiAgICAgICAgYXBwZW5kX2hlYWRlciggdGV4dCApCgogICAgICAgICAgICBBcHBlbmRzIHRleHQgdG8gdGhlIEhUTUwgPGhlYWQ+IHNlY3Rpb24gb2YgdGhlIEUtbWFpbC4KCiAgICAgICAgICAgIHRleHQgLSBUaGUgdGV4dCB0byBhcHBlbmQgdG8gdGhlIDxoZWFkPiBzZWN0aW9uLgogICAgICAgICIiIgogICAgICAgIHRhZyA9IFRhZyhzZWxmLnNvdXAuYnVpbGRlciwgbmFtZT0naDEnKQogICAgICAgIHRhZy5zdHJpbmcgPSB0ZXh0CiAgICAgICAgCiAgICAgICAgc2VsZi5oZWFkLmE=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXhwZWN0ZWQgdG8gYmUgSFRNTCA8dHI+IGF0dHJpYnV0ZXMgb3IgQ1NTIHN0eWxlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3RyaW5nIHdpbGwgYmUgaW5zZXJ0ZWQgaW50byB0aGUgPHRyPiBkZWNsYXJhdGlvbiBhbmQgaXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmh0bWxIZWFkICs9IHRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm10IC0gVGhlIGZvcm1hdCBpbmZvcm1hdGlvbiBmb3IgZWFjaCByb3cgYXMgYSBsaXN0IG9mIHN0cmluZ3MuIEVhY2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVycyAtIFRoZSBjb2x1bW4gaGVhZGVycyBhcyBhIGxpc3Qgb2Ygc3RyaW5ncwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0VGFibGUpIGFuZCBwcmVwZW5kIGl0IHRvIHRoZSBFLW1haWwgYm9keS4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
