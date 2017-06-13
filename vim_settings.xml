@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1497361993279">
+      <file name="/a.dummy" timestamp="1497362685253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" timestamp="1496784166805">
@@ -51,12 +51,12 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1497361987690">
-        <mark key="a" line="237" column="40" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="237" column="41" />
-        <mark key="^" line="237" column="40" />
-        <mark key="." line="238" column="0" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1497362803343">
+        <mark key="a" line="228" column="10" />
+        <mark key="[" line="263" column="8" />
+        <mark key="]" line="263" column="26" />
+        <mark key="^" line="263" column="26" />
+        <mark key="." line="263" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" timestamp="1497215536094">
         <mark key="[" line="5" column="8" />
@@ -266,41 +266,41 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBhZ2UgPSBFbnVtKCdhZ2UnLCB7J2xhdGUnOiBkYXlzX2xhdGUsICdwZW5kaW5nJzogZGF5c19wZW5kaW5nLCAnd2FybmluZyc6IGRheXNfd2FybmluZywKICAgICAgICAgICAgICAgICAgICAgICAnbWF4RGF5c0FjdGlvbic6IG1heF9kYXlzX2FjdGlvbiwgJ21heERheXNDT0UnOiBtYXhfZGF5c19jb2V9KQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmVwZW5kVGFibGUoc2VsZiwgdGFibGUpOgogICAgICAgICIiIgogICAgICAgIHByZXBlbmRUYWJsZSggdGFibGUgKQoKICAgICAgICAgICAgVGhpcyBtZXRob2QgdGFrZXMgYW4gSFRNTFRhYmxlIGFuZCBwcmVwZW5kcyBpdCB0byB0aGUgY3VycmVudCBib2R5IG9mIHRoZSBlbWFpbAoKICAgICAgICAgICAgdGFibGUgLSBhIHZhbGlkIEhUTUxUYWJsZSBvYmplY3QKICAgICAgICAiIiIKCiAgICAgICAgc2VsZi5wcmVwZW5kX2JvZHkodGFibGUuZ2V0X3NvdXApCg==</text>
+      <register name="&quot;" type="4">
+        <text>print</text>
       </register>
       <register name="-" type="4">
-        <text>will convert rows of data into an HTML table (via</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text>make_row</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmVwZW5kVGFibGUoc2VsZiwgdGFibGUpOgogICAgICAgICIiIgogICAgICAgIHByZXBlbmRUYWJsZSggdGFibGUgKQoKICAgICAgICAgICAgVGhpcyBtZXRob2QgdGFrZXMgYW4gSFRNTFRhYmxlIGFuZCBwcmVwZW5kcyBpdCB0byB0aGUgY3VycmVudCBib2R5IG9mIHRoZSBlbWFpbAoKICAgICAgICAgICAgdGFibGUgLSBhIHZhbGlkIEhUTUxUYWJsZSBvYmplY3QKICAgICAgICAiIiIKCiAgICAgICAgc2VsZi5wcmVwZW5kX2JvZHkodGFibGUuZ2V0X3NvdXApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwZW5kX3RhYmxlKHNlbGYsIHRhYmxlKToKICAgICAgICAiIiIKICAgICAgICBwcmVwZW5kX3RhYmxlKCB0YWJsZSApCgogICAgICAgICAgICBUaGlzIG1ldGhvZCB0YWtlcyBhbiBIVE1MVGFibGUgYW5kIHByZXBlbmRzIGl0IHRvIHRoZSBjdXJyZW50IGJvZHkgb2YgdGhlIGVtYWlsCgogICAgICAgICAgICB0YWJsZSAtIGEgdmFsaWQgSFRNTFRhYmxlIG9iamVjdAogICAgICAgICIiIgoKICAgICAgICBzZWxmLnByZXBlbmRfYm9keSh0YWJsZS5nZXRfc291cCkKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVtYWlsQm9keSA9IHNlbGYuZm9ybWF0VGFibGUoaGVhZGVycywgcm93cykgKyBzZWxmLmVtYWlsQm9keQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZi5jbG9zZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhlIGNvbHVtbiBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZiA9IG9wZW4oc2F2ZUZpbGUsICd3JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGJsIC0gVGhlIHJvd3Mgb2YgdGFibGUgZGF0YSBhcyBhIGxpc3QuIEVhY2ggcm93IGlzIGEgdHVwbGUgb2YK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPC9odG1sPicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXhwZWN0ZWQgdG8gYmUgSFRNTCA8dHI+IGF0dHJpYnV0ZXMgb3IgQ1NTIHN0eWxlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPGJvZHk+JyArIHNlbGYuZW1haWxCb2R5ICsgJzwvYm9keT4nICsgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3RyaW5nIHdpbGwgYmUgaW5zZXJ0ZWQgaW50byB0aGUgPHRyPiBkZWNsYXJhdGlvbiBhbmQgaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPGhlYWQ+JyArIHNlbGYuaHRtbEhlYWQgKyAnPC9oZWFkPicgKyBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm10IC0gVGhlIGZvcm1hdCBpbmZvcm1hdGlvbiBmb3IgZWFjaCByb3cgYXMgYSBsaXN0IG9mIHN0cmluZ3MuIEVhY2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnPC9odG1sPicsICdodG1sJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVycyAtIFRoZSBjb2x1bW4gaGVhZGVycyBhcyBhIGxpc3Qgb2Ygc3RyaW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnPGJvZHk+JyArIHNlbGYuZW1haWxCb2R5ICsgJzwvYm9keT4nICsgXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0VGFibGUpIGFuZCBwcmVwZW5kIGl0IHRvIHRoZSBFLW1haWwgYm9keS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnPGhlYWQ+JyArIHNlbGYuaHRtbEhlYWQgKyAnPC9oZWFkPicgKyBcCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
