@@ -117,13 +117,13 @@
         <mark key="." line="169" column="49" />
         <mark key="^" line="169" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" timestamp="1497453840924">
-        <mark key="a" line="304" column="8" />
-        <mark key="'" line="366" column="37" />
-        <mark key="[" line="360" column="0" />
-        <mark key="]" line="361" column="82" />
-        <mark key="^" line="361" column="82" />
-        <mark key="." line="361" column="82" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" timestamp="1497536667205">
+        <mark key="a" line="310" column="23" />
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="310" column="24" />
+        <mark key="]" line="310" column="28" />
+        <mark key="." line="310" column="28" />
+        <mark key="^" line="310" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" timestamp="1496788241203">
         <mark key="a" line="80" column="4" />
@@ -165,17 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" />
-      <jump line="57" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="140" column="20" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="112" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="155" column="42" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="231" column="54" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
-      <jump line="294" column="3" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
-      <jump line="275" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
-      <jump line="8" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
-      <jump line="0" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
-      <jump line="2" column="11" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
       <jump line="206" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
       <jump line="210" column="12" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
@@ -184,7 +173,6 @@
       <jump line="300" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="289" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="294" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="295" column="9" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COE.py" />
       <jump line="12" column="22" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/IDASPatching.py" />
@@ -265,58 +253,70 @@
       <jump line="364" column="37" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="23" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
       <jump line="25" column="11" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
+      <jump line="2" column="13" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="310" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="290" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="26" column="61" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="66" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="105" column="61" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="141" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="39" column="21" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="287" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBhZ2UgPSBFbnVtKCdhZ2UnLCB7J2xhdGUnOiBkYXlzX2xhdGUsICdwZW5kaW5nJzogZGF5c19wZW5kaW5nLCAnd2FybmluZyc6IGRheXNfd2FybmluZywKICAgICAgICAgICAgICAgICAgICAgICAnbWF4RGF5c0FjdGlvbic6IG1heF9kYXlzX2FjdGlvbiwgJ21heERheXNDT0UnOiBtYXhfZGF5c19jb2V9KQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>late</text>
+        <text>table.</text>
       </register>
       <register name="-" type="4">
-        <text>late</text>
+        <text>table.</text>
       </register>
       <register name="/" type="4">
-        <text>late</text>
+        <text>^class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF5c19sYXRlX2NsYXNzX3N0eWxlPWxhdGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBBbWF6b25XZWJQYWdlIGltcG9ydCBBbWF6b25XZWJQYWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGFyc2VfY29lYWlfZGF0YSgpCg==</text>
+        <text encoding="base64">ZnJvbSBodG1sRW1haWwgaW1wb3J0IEhUTUxFbWFpbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGFyc2VfY29lX2RhdGEoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICBjb2VzSW5SZXZpZXcgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfbGF0ZV8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3NUYWJsZXMocGFnZSwgZW1haWwsIGFnZUxpbWl0cywgY29lc0luUmV2aWV3LCBjcml0aWNhbE9ubHk9RmFsc2UsIGluY2x1ZGVUZWFtT25seT1GYWxzZSk6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGFyc2VfY29lYWlfZGF0YSgpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnAxMDAgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGFyc2VfY29lX2RhdGEoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnA5MCA9IDAK</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICBjb2VzSW5SZXZpZXcgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnA1MCA9IDAK</text>
+        <text encoding="base64">ZGVmIHByb2Nlc3NUYWJsZXMocGFnZSwgZW1haWwsIGFnZUxpbWl0cywgY29lc0luUmV2aWV3LCBjcml0aWNhbE9ubHk9RmFsc2UsIGluY2x1ZGVUZWFtT25seT1GYWxzZSk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>late</last-search>
+      <last-search>^class</last-search>
       <last-offset />
-      <last-pattern>late</last-pattern>
+      <last-pattern>^class</last-pattern>
       <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -324,8 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Processed</entry>
-        <entry>datefmt</entry>
         <entry>eventlist</entry>
         <entry>debug</entry>
         <entry>info</entry>
@@ -340,10 +338,12 @@
         <entry encoding="base64">PHRhYmxl</entry>
         <entry>make_row</entry>
         <entry>COEReprot</entry>
-        <entry>COEReport</entry>
         <entry>page_lines</entry>
         <entry>re</entry>
         <entry>late</entry>
+        <entry>COEReport</entry>
+        <entry>class</entry>
+        <entry>^class</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
