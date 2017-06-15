@@ -117,13 +117,13 @@
         <mark key="." line="169" column="49" />
         <mark key="^" line="169" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" timestamp="1497536667205">
-        <mark key="a" line="310" column="23" />
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="310" column="24" />
-        <mark key="]" line="310" column="28" />
-        <mark key="." line="310" column="28" />
-        <mark key="^" line="310" column="28" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" timestamp="1497538881944">
+        <mark key="a" line="308" column="23" />
+        <mark key="'" line="310" column="10" />
+        <mark key="[" line="308" column="18" />
+        <mark key="]" line="308" column="32" />
+        <mark key="^" line="308" column="32" />
+        <mark key="." line="308" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" timestamp="1496788241203">
         <mark key="a" line="80" column="4" />
@@ -165,9 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
-      <jump line="206" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="210" column="12" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="300" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
@@ -262,69 +259,71 @@
       <jump line="105" column="61" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="141" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="39" column="21" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="287" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
       <jump line="186" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="366" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="367" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
+      <jump line="312" column="10" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBhZ2UgPSBFbnVtKCdhZ2UnLCB7J2xhdGUnOiBkYXlzX2xhdGUsICdwZW5kaW5nJzogZGF5c19wZW5kaW5nLCAnd2FybmluZyc6IGRheXNfd2FybmluZywKICAgICAgICAgICAgICAgICAgICAgICAnbWF4RGF5c0FjdGlvbic6IG1heF9kYXlzX2FjdGlvbiwgJ21heERheXNDT0UnOiBtYXhfZGF5c19jb2V9KQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>table.</text>
+        <text>table.rows:</text>
       </register>
       <register name="-" type="4">
-        <text>table.</text>
+        <text>table.rows:</text>
       </register>
       <register name="/" type="4">
-        <text>^class</text>
+        <text>parse_coe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF5c19sYXRlX2NsYXNzX3N0eWxlPWxhdGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBBbWF6b25XZWJQYWdlIGltcG9ydCBBbWF6b25XZWJQYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBAdHlwZSB0YWJsZTogSFRNTFRhYmxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBodG1sRW1haWwgaW1wb3J0IEhUTUxFbWFpbAo=</text>
+        <text encoding="base64">ICAgICAgICBAcGFyYW0gdGFibGU6IFRoZSBzb3VwIGVudHJ5IGZvciB0aGUgdGFibGUgY29udGFpbmluZyB0aGUgQ09FIGxpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBIVE1MVGFibGUgaW1wb3J0IEhUTUxUYWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfbGF0ZV8K</text>
+        <text encoding="base64">ZnJvbSBBbWF6b25XZWJQYWdlIGltcG9ydCBBbWF6b25XZWJQYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBodG1sRW1haWwgaW1wb3J0IEhUTUxFbWFpbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGFyc2VfY29lYWlfZGF0YSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGFyc2VfY29lX2RhdGEoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfbGF0ZV8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICBjb2VzSW5SZXZpZXcgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3NUYWJsZXMocGFnZSwgZW1haWwsIGFnZUxpbWl0cywgY29lc0luUmV2aWV3LCBjcml0aWNhbE9ubHk9RmFsc2UsIGluY2x1ZGVUZWFtT25seT1GYWxzZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGFyc2VfY29lYWlfZGF0YSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>^class</last-search>
+      <last-search>parse_coe</last-search>
       <last-offset />
-      <last-pattern>^class</last-pattern>
+      <last-pattern>parse_coe</last-pattern>
       <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>eventlist</entry>
         <entry>debug</entry>
         <entry>info</entry>
         <entry>cmd</entry>
@@ -344,6 +343,7 @@
         <entry>COEReport</entry>
         <entry>class</entry>
         <entry>^class</entry>
+        <entry>parse_coe</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
