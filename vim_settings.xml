@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1498923260215">
+      <file name="/Python Console" timestamp="1501617629483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498801980735">
@@ -22,7 +22,7 @@
       <file name="/a.dummy" timestamp="1498585651838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" timestamp="1501223145808">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" timestamp="1501605885686">
         <mark key="'" line="89" column="33" />
         <mark key="[" line="41" column="81" />
         <mark key="]" line="41" column="81" />
@@ -47,7 +47,7 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/parsePVCSHostDump.py" timestamp="1499374418272">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/parsePVCSHostDump.py" timestamp="1501602136833">
         <mark key="'" line="50" column="104" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -62,12 +62,26 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" timestamp="1501609847681">
+        <mark key="a" line="7" column="52" />
+        <mark key="'" line="26" column="39" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="101" />
+        <mark key="." line="33" column="101" />
+        <mark key="^" line="33" column="101" />
+      </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" timestamp="1498802045054">
         <mark key="'" line="34" column="35" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="37" column="36" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched_panda.py" timestamp="1501618906203">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="4" />
+        <mark key="^" line="24" column="37" />
+        <mark key="." line="29" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1498588663320">
         <mark key="[" line="0" column="9" />
@@ -167,7 +181,7 @@
         <mark key="^" line="155" column="18" />
         <mark key="." line="158" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/PVCSFile.py" timestamp="1499375175912">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/PVCSFile.py" timestamp="1501602059792">
         <mark key="'" line="7" column="13" />
         <mark key="[" line="29" column="127" />
         <mark key="]" line="29" column="135" />
@@ -188,22 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="99" column="34" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="3" column="34" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="3" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="24" column="7" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="129" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="153" column="84" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="155" column="20" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="254" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="5" column="12" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
-      <jump line="17" column="5" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
-      <jump line="0" column="14" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
       <jump line="55" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
       <jump line="26" column="32" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
@@ -288,58 +286,74 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" />
       <jump line="33" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/parsePVCSHostDump.py" />
       <jump line="51" column="104" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/parsePVCSHostDump.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="9" column="47" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="67" column="64" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="50" column="53" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="85" column="38" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="40" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="28" column="83" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="38" column="43" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="42" column="77" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="24" column="39" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
+      <jump line="18" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched_panda.py" />
+      <jump line="19" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched_panda.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGluaXRfZnJvbV9zdHJpbmcoY2xzLCBodG1sX3N0cik6CiAgICAgICAgIiIiCiAgICAgICAgUmVzZXQgdGhlIGRhdGEgc3RydWN0dXJlIHRvIGRhdGEgaW4gYW4gaHRtbCBzdHJpbmcKCiAgICAgICAgOnBhcmFtIGh0bWxfc3RyOiBUaGUgaHRtbCBzdHJpbmcgdG8gdXNlIGFzIGFuIGluaXRpYWxpemVyCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWxfc3RyLCAnaHRtbC5wYXJzZXInKQogICAgICAgIHJldHVybiBjbHMoc291cCkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpbml0X25ld190YWJsZShjbHMpOgogICAgICAgICIiIgogICAgICAgIGNyZWF0ZSBhIG5ldyBodG1sIHRhYmxlIG9iamVjdCB3aXRoIGJsYW5rIGhlYWQgYW5kIGJvZHkKCiAgICAgICAgOnBhcmFtCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgoKICAgICAgICBkZWZhdWx0X3N0ciA9ICc8dGFibGUgYm9yZGVyPSIxIj48dGhlYWQ+PC90aGVhZD48dGJvZHk+PC90Ym9keT48L3RhYmxlPicKICAgICAgICByZXR1cm4gY2xzLmluaXRfZnJvbV9zdHJpbmcoZGVmYXVsdF9zdHIpCgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:-1],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:-1],</text>
+        <text>CSV file opened for writing')</text>
       </register>
       <register name="/" type="4">
-        <text>new_</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpblF1aWx0Jzogcm93WydpblF1aWx0J119KQo=</text>
+        <text encoding="base64">ICAgICAgICBob3N0bGlzdCA9IGlucHV0X2NzdlsnaG9zdG5hbWUnXS53aGVyZShpbnB1dF9jc3Yuc3RhdHVzPT0nR1JFRU4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpblF1aWx0Jzogcm93WydpblF1aWx0J119KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdob3N0Y2xhc3MnOiByb3dbJ2hvc3RjbGFzcyddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2hvc3RjbGFzcyc6IGhvc3RsaXN0W2hvc3RuYW1lXVsnaG9zdGNsYXNzJ119KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzdGF0dXMnOiByb3dbJ3N0YXR1cyddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaW1hcnkgb3duZXInOiBob3N0bGlzdFtob3N0bmFtZV1bJ3ByaW1hcnkgb3duZXInXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwcmltYXJ5IG93bmVyJzogcm93WydwcmltYXJ5IG93bmVyJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2hvc3RuYW1lJzogaG9zdG5hbWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdob3N0bmFtZSc6IHJvd1snaG9zdG5hbWUnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0ZhYnJpYyc6IGhvc3RsaXN0W2hvc3RuYW1lXVsnRmFicmljJ10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdEYXRlJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZXJvdyh7J09yZyc6IGhvc3RsaXN0W2hvc3RuYW1lXVsnT3JnJ10sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdGYWJyaWMnOiBmYWJyaWMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaG9zdGxpc3RbaG9zdG5hbWVdWydQYXRjaGVkJ10gaXMgRmFsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmdXcml0ZXIud3JpdGVyb3coeydPcmcnOiBvcmcsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaG9zdG5hbWUgaW4gaG9zdGxpc3Qua2V5cygpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihkaXJlY3RvcnkgKyBmaWxlbmFtZSwgJ3cnKSBhcyBvdXRwdXRmaWxlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new_</last-search>
+      <last-search>.</last-search>
       <last-offset />
-      <last-pattern>new_</last-pattern>
+      <last-pattern>.</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -347,11 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make_row</entry>
-        <entry>COEReprot</entry>
-        <entry>page_lines</entry>
-        <entry>re</entry>
-        <entry>late</entry>
         <entry>COEReport</entry>
         <entry>class</entry>
         <entry>^class</entry>
@@ -367,6 +376,11 @@
         <entry>skip</entry>
         <entry>new_for</entry>
         <entry>new_</entry>
+        <entry encoding="base64">Jywg</entry>
+        <entry>'</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>]</entry>
+        <entry>.</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
