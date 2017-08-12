@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1502558537986">
+      <file name="/Python Console" timestamp="1502559313286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1501622384666">
@@ -39,13 +39,13 @@
       <file name="/PyFunctionTypeComment Fragment (HTMLTable.py:6816).functionTypeComment" timestamp="1497371680323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1502558570427">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1502559362130">
         <mark key="a" line="163" column="57" />
         <mark key="'" line="98" column="41" />
-        <mark key="[" line="98" column="18" />
-        <mark key="]" line="98" column="18" />
-        <mark key="^" line="126" column="103" />
-        <mark key="." line="98" column="18" />
+        <mark key="[" line="178" column="111" />
+        <mark key="]" line="179" column="42" />
+        <mark key="^" line="179" column="42" />
+        <mark key="." line="179" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -325,16 +325,16 @@
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGluaXRfZnJvbV9zdHJpbmcoY2xzLCBodG1sX3N0cik6CiAgICAgICAgIiIiCiAgICAgICAgUmVzZXQgdGhlIGRhdGEgc3RydWN0dXJlIHRvIGRhdGEgaW4gYW4gaHRtbCBzdHJpbmcKCiAgICAgICAgOnBhcmFtIGh0bWxfc3RyOiBUaGUgaHRtbCBzdHJpbmcgdG8gdXNlIGFzIGFuIGluaXRpYWxpemVyCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWxfc3RyLCAnaHRtbC5wYXJzZXInKQogICAgICAgIHJldHVybiBjbHMoc291cCkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpbml0X25ld190YWJsZShjbHMpOgogICAgICAgICIiIgogICAgICAgIGNyZWF0ZSBhIG5ldyBodG1sIHRhYmxlIG9iamVjdCB3aXRoIGJsYW5rIGhlYWQgYW5kIGJvZHkKCiAgICAgICAgOnBhcmFtCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgoKICAgICAgICBkZWZhdWx0X3N0ciA9ICc8dGFibGUgYm9yZGVyPSIxIj48dGhlYWQ+PC90aGVhZD48dGJvZHk+PC90Ym9keT48L3RhYmxlPicKICAgICAgICByZXR1cm4gY2xzLmluaXRfZnJvbV9zdHJpbmcoZGVmYXVsdF9zdHIpCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>\.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcG9ydFNlY3Rpb25zW3NlY3Rpb25OYW1lXVtlbnRyeU5hbWVdWydQTEFOTkVEXzkwJ10gKyAnPC90ZD48dGQ+JyArIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcG9ydFNlY3Rpb25zW3NlY3Rpb25OYW1lXVtlbnRyeU5hbWVdWydUb3RhbCddICsgJzwvdGQ+PHRkPicgKyBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
