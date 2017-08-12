@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1501629935338">
+      <file name="/Python Console" timestamp="1502557349711">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1501622384666">
@@ -39,12 +39,13 @@
       <file name="/PyFunctionTypeComment Fragment (HTMLTable.py:6816).functionTypeComment" timestamp="1497371680323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1502550851196">
-        <mark key="'" line="215" column="74" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="8" />
-        <mark key="^" line="159" column="17" />
-        <mark key="." line="171" column="8" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1502556886397">
+        <mark key="a" line="165" column="57" />
+        <mark key="'" line="99" column="41" />
+        <mark key="[" line="216" column="66" />
+        <mark key="]" line="216" column="66" />
+        <mark key="^" line="211" column="73" />
+        <mark key="." line="216" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -218,16 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="94" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/ToolsEventFile/parseToolsEventDump.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/ToolsEventFile/parseToolsEventDump.py" />
-      <jump line="24" column="42" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/ToolsEventFile/parseToolsEventDump.py" />
-      <jump line="83" column="93" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/ToolsEventFile/parseToolsEventDump.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
-      <jump line="34" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
-      <jump line="0" column="3" filename="/fragment.py" />
-      <jump line="155" column="43" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="156" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
       <jump line="157" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
       <jump line="158" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
       <jump line="166" column="39" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
@@ -300,8 +291,6 @@
       <jump line="164" column="40" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="175" column="66" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="176" column="13" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="179" column="92" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="189" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="200" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="201" column="15" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="202" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -318,58 +307,70 @@
       <jump line="156" column="44" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="181" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="216" column="74" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="165" column="57" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="173" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="174" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="179" column="51" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="180" column="17" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="182" column="14" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="184" column="71" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="189" column="44" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="191" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="193" column="91" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="224" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="99" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGluaXRfZnJvbV9zdHJpbmcoY2xzLCBodG1sX3N0cik6CiAgICAgICAgIiIiCiAgICAgICAgUmVzZXQgdGhlIGRhdGEgc3RydWN0dXJlIHRvIGRhdGEgaW4gYW4gaHRtbCBzdHJpbmcKCiAgICAgICAgOnBhcmFtIGh0bWxfc3RyOiBUaGUgaHRtbCBzdHJpbmcgdG8gdXNlIGFzIGFuIGluaXRpYWxpemVyCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWxfc3RyLCAnaHRtbC5wYXJzZXInKQogICAgICAgIHJldHVybiBjbHMoc291cCkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpbml0X25ld190YWJsZShjbHMpOgogICAgICAgICIiIgogICAgICAgIGNyZWF0ZSBhIG5ldyBodG1sIHRhYmxlIG9iamVjdCB3aXRoIGJsYW5rIGhlYWQgYW5kIGJvZHkKCiAgICAgICAgOnBhcmFtCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgoKICAgICAgICBkZWZhdWx0X3N0ciA9ICc8dGFibGUgYm9yZGVyPSIxIj48dGhlYWQ+PC90aGVhZD48dGJvZHk+PC90Ym9keT48L3RhYmxlPicKICAgICAgICByZXR1cm4gY2xzLmluaXRfZnJvbV9zdHJpbmcoZGVmYXVsdF9zdHIpCgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBDcmVhdGUgbGlzdCBvZiByb3dzIGZvciB0aGUgdGFibGUK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>sectionInfo.keys()):</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>sectionInfo</text>
+        <text>\.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcG9ydFNlY3Rpb25zW3Jvd1snT3JnUHJpb3JpdHknXV1bZW50cnlOYW1lXVtyb3dbJ1Jlc29sdXRpb24nXV0gKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcG9ydFNlY3Rpb25zW3NlY3Rpb25OYW1lXVtlbnRyeU5hbWVdWydQTEFOTkVEXzkwJ10gKyAnPC90ZD48dGQ+JyArIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBDcmVhdGUgbGlzdCBvZiByb3dzIGZvciB0aGUgdGFibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWwgKz0gcmVwb3J0U2VjdGlvbnNbc2VjdGlvbk5hbWVdW2VudHJ5TmFtZV1bJ0NvdW50J10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWN0aW9uTmFtZSBpbiByZXBvcnRTZWN0aW9uczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RyKHJlcG9ydFNlY3Rpb25zW3NlY3Rpb25OYW1lXVtlbnRyeU5hbWVdWydDb3VudCddKSArICc8L3RkPjwvdHI+JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlY3Rpb25JbmZvID0geydNSVNTRUQnOiB7J1RpdGxlJzogJ01pc3NlZCBUYXJnZXQgRGF0ZScsICdTdHlsZSc6ICdsYXRlJ30sCiAgICAgICAgICAgICAgICAgICAnTk8gUExBTic6IHsnVGl0bGUnOiAnTm8gQWN0aXZlIFBsYW5uZWQgRml4JywgJ1N0eWxlJzogJ2xhdGUnfSwKICAgICAgICAgICAgICAgICAgICdQTEFOTkVEXzMwJzogeydUaXRsZSc6ICdEdWUgV2l0aGluIDMwIERheXMnLCAnU3R5bGUnOiAnd2FybmluZyd9LAogICAgICAgICAgICAgICAgICAgJ1BMQU5ORURfNjAnOiB7J1RpdGxlJzogJ0R1ZSBXaXRoaW4gNjAgRGF5cycsICdTdHlsZSc6ICdwZW5kaW5nJ30sCiAgICAgICAgICAgICAgICAgICAnUExBTk5FRF85MCc6IHsnVGl0bGUnOiAnRHVlIFdpdGhpbiA5MCBEYXlzJywgJ1N0eWxlJzogJ3BlbmRpbmcnfSwKICAgICAgICAgICAgICAgICAgICdQTEFOTkVEX09USEVSJzogeydUaXRsZSc6ICdEdWUgQWZ0ZXIgMTIwIERheXMnLCAnU3R5bGUnOiAnbGF0ZSd9fQoK</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdQTEFOTkVEX09USEVSJzogeydUaXRsZSc6ICdEdWUgQWZ0ZXIgMTIwIERheXMnLCAnU3R5bGUnOiAnbGF0ZSd9fQo=</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdQTEFOTkVEXzkwJzogeydUaXRsZSc6ICdEdWUgV2l0aGluIDkwIERheXMnLCAnU3R5bGUnOiAncGVuZGluZyd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwb3J0U2VjdGlvbnNbc2VjdGlvbk5hbWVdW2VudHJ5TmFtZV1bJ1RvdGFsJ10gKyAnPC90ZD48dGQ+JyArIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdQTEFOTkVEXzYwJzogeydUaXRsZSc6ICdEdWUgV2l0aGluIDYwIERheXMnLCAnU3R5bGUnOiAncGVuZGluZyd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdQTEFOTkVEXzMwJzogeydUaXRsZSc6ICdEdWUgV2l0aGluIDMwIERheXMnLCAnU3R5bGUnOiAnd2FybmluZyd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAuYXBwZW5kVGFibGUoWyc8dHI+PHRoPlJpc2s8L3RoPjx0aD5Pd25lcjwvdGg+PHRoPlRvdGFsPC90aD48L3RyPjx0aD48L3RoPiddLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdOTyBQTEFOJzogeydUaXRsZSc6ICdObyBBY3RpdmUgUGxhbm5lZCBGaXgnLCAnU3R5bGUnOiAnbGF0ZSd9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlY3Rpb25JbmZvID0geydNSVNTRUQnOiB7J1RpdGxlJzogJ01pc3NlZCBUYXJnZXQgRGF0ZScsICdTdHlsZSc6ICdsYXRlJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBDcmVhdGUgbGlzdCBvZiByb3dzIGZvciB0aGUgdGFibGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sectionInfo</last-search>
+      <last-search>\.get</last-search>
       <last-offset />
-      <last-pattern>sectionInfo</last-pattern>
+      <last-pattern>\.get</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -377,8 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pg==</entry>
-        <entry>]</entry>
         <entry>.</entry>
         <entry>pd</entry>
         <entry>initRisk</entry>
@@ -397,6 +396,8 @@
         <entry>section</entry>
         <entry>sectionInco</entry>
         <entry>sectionInfo</entry>
+        <entry>get</entry>
+        <entry>\.get</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
