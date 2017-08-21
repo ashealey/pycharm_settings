@@ -74,13 +74,13 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1503296883985">
-        <mark key="a" line="346" column="0" />
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="104" />
-        <mark key="^" line="33" column="104" />
-        <mark key="." line="33" column="104" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1503297816029">
+        <mark key="a" line="349" column="0" />
+        <mark key="'" line="325" column="0" />
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="326" column="0" />
+        <mark key="." line="36" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" timestamp="1501609847681">
         <mark key="a" line="7" column="52" />
@@ -230,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="77" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
-      <jump line="24" column="39" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
       <jump line="18" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched_panda.py" />
       <jump line="19" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched_panda.py" />
       <jump line="16" column="25" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched_panda.py" />
@@ -330,19 +328,21 @@
       <jump line="22" column="29" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
       <jump line="33" column="43" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="46" column="63" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="325" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGluaXRfZnJvbV9zdHJpbmcoY2xzLCBodG1sX3N0cik6CiAgICAgICAgIiIiCiAgICAgICAgUmVzZXQgdGhlIGRhdGEgc3RydWN0dXJlIHRvIGRhdGEgaW4gYW4gaHRtbCBzdHJpbmcKCiAgICAgICAgOnBhcmFtIGh0bWxfc3RyOiBUaGUgaHRtbCBzdHJpbmcgdG8gdXNlIGFzIGFuIGluaXRpYWxpemVyCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWxfc3RyLCAnaHRtbC5wYXJzZXInKQogICAgICAgIHJldHVybiBjbHMoc291cCkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpbml0X25ld190YWJsZShjbHMpOgogICAgICAgICIiIgogICAgICAgIGNyZWF0ZSBhIG5ldyBodG1sIHRhYmxlIG9iamVjdCB3aXRoIGJsYW5rIGhlYWQgYW5kIGJvZHkKCiAgICAgICAgOnBhcmFtCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgoKICAgICAgICBkZWZhdWx0X3N0ciA9ICc8dGFibGUgYm9yZGVyPSIxIj48dGhlYWQ+PC90aGVhZD48dGJvZHk+PC90Ym9keT48L3RhYmxlPicKICAgICAgICByZXR1cm4gY2xzLmluaXRfZnJvbV9zdHJpbmcoZGVmYXVsdF9zdHIpCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">PiA=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">PiA=</text>
       </register>
       <register name="/" type="4">
-        <text>alter</text>
+        <text>http</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZW1haWxfZnJvbT1ub2JvZHlAYW1hem9uLmNvbQo=</text>
@@ -375,13 +375,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>w'</text>
       </register>
     </registers>
     <search>
-      <last-search>alter</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>alter</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sectionInco</entry>
         <entry>sectionInfo</entry>
         <entry>\.get</entry>
         <entry>append_to_</entry>
@@ -409,6 +408,7 @@
         <entry>body</entry>
         <entry>thead</entry>
         <entry>alter</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -430,6 +430,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>w'</entry>
       </history-cmd>
       <history-expr />
       <history-input />
