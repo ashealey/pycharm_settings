@@ -45,13 +45,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503294362716">
-        <mark key="a" line="284" column="0" />
-        <mark key="'" line="133" column="23" />
-        <mark key="[" line="287" column="29" />
-        <mark key="]" line="287" column="54" />
-        <mark key="^" line="287" column="54" />
-        <mark key="." line="287" column="54" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503295556222">
+        <mark key="a" line="283" column="0" />
+        <mark key="'" line="181" column="0" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="8" />
+        <mark key="^" line="286" column="54" />
+        <mark key="." line="241" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -74,13 +74,13 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1503294314276">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1503295654479">
         <mark key="a" line="346" column="0" />
-        <mark key="'" line="290" column="0" />
-        <mark key="[" line="230" column="15" />
-        <mark key="]" line="230" column="15" />
-        <mark key="^" line="72" column="15" />
-        <mark key="." line="230" column="15" />
+        <mark key="'" line="29" column="70" />
+        <mark key="[" line="230" column="14" />
+        <mark key="]" line="230" column="16" />
+        <mark key="^" line="230" column="16" />
+        <mark key="." line="230" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" timestamp="1501609847681">
         <mark key="a" line="7" column="52" />
@@ -230,9 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="47" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
-      <jump line="12" column="11" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
-      <jump line="67" column="64" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
       <jump line="50" column="53" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
       <jump line="85" column="38" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
       <jump line="40" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" />
@@ -291,7 +288,6 @@
       <jump line="143" column="29" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="144" column="22" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="156" column="44" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="181" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="216" column="74" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="165" column="57" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="173" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -330,58 +326,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="133" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="290" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="224" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="29" column="70" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGluaXRfZnJvbV9zdHJpbmcoY2xzLCBodG1sX3N0cik6CiAgICAgICAgIiIiCiAgICAgICAgUmVzZXQgdGhlIGRhdGEgc3RydWN0dXJlIHRvIGRhdGEgaW4gYW4gaHRtbCBzdHJpbmcKCiAgICAgICAgOnBhcmFtIGh0bWxfc3RyOiBUaGUgaHRtbCBzdHJpbmcgdG8gdXNlIGFzIGFuIGluaXRpYWxpemVyCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWxfc3RyLCAnaHRtbC5wYXJzZXInKQogICAgICAgIHJldHVybiBjbHMoc291cCkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpbml0X25ld190YWJsZShjbHMpOgogICAgICAgICIiIgogICAgICAgIGNyZWF0ZSBhIG5ldyBodG1sIHRhYmxlIG9iamVjdCB3aXRoIGJsYW5rIGhlYWQgYW5kIGJvZHkKCiAgICAgICAgOnBhcmFtCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgoKICAgICAgICBkZWZhdWx0X3N0ciA9ICc8dGFibGUgYm9yZGVyPSIxIj48dGhlYWQ+PC90aGVhZD48dGJvZHk+PC90Ym9keT48L3RhYmxlPicKICAgICAgICByZXR1cm4gY2xzLmluaXRfZnJvbV9zdHJpbmcoZGVmYXVsdF9zdHIpCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>HTMLEmail</text>
+        <text>Tg</text>
       </register>
       <register name="-" type="4">
-        <text>HTMLEmail</text>
+        <text>Tg</text>
       </register>
       <register name="/" type="4">
-        <text>append_to_header</text>
+        <text>Tg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZW1haWxfZnJvbT1ub2JvZHlAYW1hem9uLmNvbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW1haWxfZGVidWc9RkFMU0UK</text>
+        <text encoding="base64">ICAgIGlmIChhcmdzLmVtYWlsX3NhdmVmaWxlKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW1haWxfZnJvbScsIGRlZmF1bHQ9J25vYm9keUBhbWF6b24uY29tJykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YXR0YWNoX2Nzdj1GQUxTRQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ZW1haWxfZGVidWc9RkFMU0UK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW1haWxfZnJvbScsIGRlZmF1bHQ9J25vYm9keUBhbWF6b24uY29tJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YXR0YWNoX2Nzdj1GQUxTRQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW1haWxfZnJvbT1ub2JvZHlAYW1hem9uLmNvbQo=</text>
+        <text encoding="base64">ZW1haWxfZGVidWc9RkFMU0UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVidWdfcmlza19maWxlPUZBTFNFCg==</text>
+        <text encoding="base64">ZW1haWxfZnJvbT1ub2JvZHlAYW1hem9uLmNvbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d3JpdGVfZGV0YWlsX2ZpbGU9VFJVRQo=</text>
+        <text encoding="base64">ZGVidWdfcmlza19maWxlPUZBTFNFCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d3JpdGVfZGV0YWlsX2ZpbGU9VFJVRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZGVidWdSaXNrRmlsZScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>append_to_header</last-search>
+      <last-search>Tg</last-search>
       <last-offset />
-      <last-pattern>append_to_header</last-pattern>
+      <last-pattern>Tg</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>criti</entry>
         <entry>criticalRisk</entry>
         <entry>writeCurrentSummary</entry>
         <entry>writeWoW</entry>
@@ -402,13 +401,14 @@
         <entry>get</entry>
         <entry>get_</entry>
         <entry>genCurrentTargetSum</entry>
-        <entry>debug</entry>
         <entry>Total Risks</entry>
         <entry>url</entry>
         <entry>actions</entry>
         <entry>append_header</entry>
         <entry>append_</entry>
         <entry>append_to_header</entry>
+        <entry>debug</entry>
+        <entry>Tg</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -428,8 +428,8 @@
         <entry>n</entry>
         <entry encoding="base64">LiwnYT4=</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
