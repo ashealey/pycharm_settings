@@ -9,10 +9,10 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1503435469532">
+      <file name="/Python Console" timestamp="1503444566006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1503434043147">
+      <file name="/fragment.py" timestamp="1503444360629">
         <mark key="'" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -45,20 +45,20 @@
       <file name="/PyFunctionTypeComment Fragment (HTMLTable.py:6816).functionTypeComment" timestamp="1497371680323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" timestamp="1503378786893">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="20" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" timestamp="1503444228467">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503439197083">
-        <mark key="a" line="382" column="13" />
-        <mark key="'" line="55" column="93" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="15" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="25" column="15" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503445407002">
+        <mark key="a" line="383" column="13" />
+        <mark key="'" line="372" column="74" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="16" />
+        <mark key="^" line="60" column="30" />
+        <mark key="." line="249" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -81,9 +81,9 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1503429038610">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1503444801766">
         <mark key="a" line="351" column="0" />
-        <mark key="'" line="9" column="8" />
+        <mark key="'" line="342" column="49" />
         <mark key="[" line="345" column="109" />
         <mark key="]" line="345" column="113" />
         <mark key="^" line="345" column="113" />
@@ -205,6 +205,12 @@
         <mark key="." line="169" column="49" />
         <mark key="^" line="169" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/edocktor_default.cfg" timestamp="1503444420204">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" timestamp="1497761052464">
         <mark key="a" line="305" column="106" />
         <mark key="'" line="0" column="0" />
@@ -252,15 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="120" column="11" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="190" column="70" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="243" column="25" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="246" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="282" column="84" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="294" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="297" column="71" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="299" column="59" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="300" column="44" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="306" column="30" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="319" column="75" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -279,11 +276,9 @@
       <jump line="80" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="275" column="72" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="79" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="32" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="204" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="281" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="330" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="27" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="29" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="337" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="308" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -351,59 +346,70 @@
       <jump line="35" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
       <jump line="13" column="68" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MultiDict/Multi_dict.py" />
       <jump line="40" column="54" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MultiDict/Multi_dict.py" />
-      <jump line="55" column="93" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="55" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="25" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="27" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="32" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="174" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="170" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="28" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" />
+      <jump line="148" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="343" column="50" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="342" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="371" column="74" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">IyBQcmludCBDdXJyZW50IFN1bW1hcnkKZGVmIHdyaXRlX3N1bW1hcnlfY3N2X2ZpbGUoY29uZmlncywgdmlvbGF0aW9ucyk6CgogICAgIyBTZXQgdXAgdGhlIGNzdiBjb2x1bW4gbmFtZXMgZm9yIHRoZSBoZWFkZXIgcmVjb3JkCiAgICAjIHVzZXMgdGhlIHZhbHVlIGZyb20gdGhlIHNldmVyaXRpZXMgZGljdCgpIGFzIHRoZSBkZWZhdWx0IG9yZGVyaW5nIHRvIGZvcmNlIGNvbHVtbiBvcmRlcgogICAgZGlmZl9maWVsZHMgPSBbJ09yZ1ByaW9yaXR5JywgJ05hbWUnLCAnT3ZlcmFsbFRvdGFsJywgJ1RvdGFsUmlza3MnXQogICAgIyBmb3Igc2V2ZXJpdHkgaW4gc29ydGVkKGN1cnJlbnRTdW1tYXJ5LnNldmVyaXRpZXMua2V5cygpKToKICAgIGZvciBzZXZlcml0eSBpbiBzb3J0ZWQodmlvbGF0aW9ucy5zZXZlcml0aWVzLmtleXMoKSwga2V5PXZpb2xhdGlvbnMuc2V2ZXJpdGllcy5fX2dldGl0ZW1fXyk6CiAgICAgICAgZGlmZl9maWVsZHMuYXBwZW5kKHNldmVyaXR5KQoKICAgICMgb3BlbiB0aGUgZmlsZSBhbmQgQ1NWIHdyaXRlciwgd3JpdGluZyBhIGhlYWRlciByZWNvcmQKICAgIHdpdGggb3Blbihjb25maWdkWydkYXRhX2RpcmVjdG9yeScgKyB2aW9sYXRpb25zLnN1bW1hcnlfZmlsZW5hbWUsICd3JykgYXMgc3VtbWFyeV9maWxlOgogICAgICAgIHN1bW1hcnlfY3N2ID0gY3N2LkRpY3RXcml0ZXIoc3VtbWFyeV9maWxlLCBmaWVsZG5hbWVzPWRpZmZfZmllbGRzKQogICAgc3VtbWFyeV9jc3Yud3JpdGVoZWFkZXIoKQoKICAgICMgZm9yIGVhY2gga2V5IGluIHRoZSBjdXJyZW50IGxpc3Qgb2YgdmlvbGF0aW9ucwogICAgZm9yIGtleSBpbiBzb3J0ZWQodmlvbGF0aW9ucy5zdW1tYXJ5LmtleXMoKSk6CgogICAgIyBnZXQgdGhlIGN1cnJlbnQgc3VtbWFyeSBlbnRyeSBmb3IgdGhlIGxvb3Aga2V5CiAgICAgICAgY3VycmVudCA9IHZpb2xhdGlvbnMuc3VtbWFyeVtrZXldCgogICAgIyBwb3B1bGF0ZSBhbiBvdXRwdXQgQ1NWIHJvdyByZWNvcmQKICAgIHJvdyA9IGRpY3QoKQogICAgcm93WydOYW1lJ10gPSBrZXkKICAgIHJvd1snT3JnUHJpb3JpdHknXSA9IHZpb2xhdGlvbnMucmlza19wcmlvcml0aWVzLmdldChrZXksICctJykKICAgIHJvd1snT3ZlcmFsbFRvdGFsJ10gPSBjdXJyZW50Wyd0b3RhbCddCiAgICByb3dbJ1RvdGFsUmlza3MnXSA9IGN1cnJlbnRbJ3RvdGFsJ10gLSBjdXJyZW50LmdldCgnQnlEZXNpZ24nLDApCiAgICBmb3Igc2V2ZXJpdHkgaW4gdmlvbGF0aW9ucy5zZXZlcml0aWVzLmtleXMoKToKICAgICAgICByb3dbc2V2ZXJpdHldID0gY3VycmVudC5nZXQoc2V2ZXJpdHksIDApCgogICAgIyB3cml0ZSB0aGUgcmVjb3JkIHRvIHRoZSBmaWxlCiAgICBzdW1tYXJ5X2Nzdi53cml0ZXJvdyhyb3cpCgoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>elsif</text>
-      </register>
-      <register name="-" type="4">
-        <text>elsif</text>
-      </register>
-      <register name="/" type="4">
-        <text>elsif</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZltrZXldLmFwcGVuZCh2YWx1ZSkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnQWRkaW5nIHBhcmFtZXRlciAtICcgKyBhcmcgKyAnOicgKyBzdHIoZ2V0YXR0cihhcmdzLCBhcmcpKSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnc1thcmddID0gZ2V0YXR0cihhcmdzLCBhcmcpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnQWRkaW5nIHBhcmFtZXRlciAtICcgKyBrZXkgKyAnOicgKyBkW2tleV0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>email_to</text>
+      </register>
+      <register name="/" type="4">
+        <text>join</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZ3NbJ2VtYWlsX3RvJ10gPSBjb25maWdzWydlbWFpbF90byddLnNwbGl0KCcsJykK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjb25maWdzLmdldChzZWN0aW9uS2V5LCBGYWxzZSkgIT0gVHJ1ZToKICAgICAgICAgICAgY29udGludWUKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjb25maWdzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZW1haWxfdG89YmFsbGVzdGRAYW1hem9uLmNvbQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c21haWxfdG89YmFsbGVzdGRAYW1hem9uLmNvbQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob3B0aW9uKQo=</text>
+        <text encoding="base64">TWVkaXVtPUZBTFNFCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb3B0aW9uIGluIGNvbmZpZy5vcHRpb25zKHNlY3Rpb24pOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZpZ3NbYXJnXSA9IGdldGF0dHIoYXJncywgYXJnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>elsif</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern>elsif</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -411,12 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attachCSV</entry>
-        <entry>saveonly</entry>
-        <entry>TRUE</entry>
-        <entry>FALSE</entry>
-        <entry>,</entry>
-        <entry>NO_PLAN</entry>
         <entry>0, 0</entry>
         <entry>+=</entry>
         <entry>Summary</entry>
@@ -431,6 +431,12 @@
         <entry>wow_comp</entry>
         <entry>summar</entry>
         <entry>elsif</entry>
+        <entry>TRUE</entry>
+        <entry>FALSE</entry>
+        <entry>False</entry>
+        <entry>get-arg</entry>
+        <entry>split</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">LiwkPDw=</entry>
