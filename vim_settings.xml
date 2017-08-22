@@ -52,13 +52,13 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503409118196">
-        <mark key="a" line="251" column="11" />
-        <mark key="'" line="253" column="118" />
-        <mark key="[" line="272" column="35" />
-        <mark key="]" line="272" column="47" />
-        <mark key="^" line="272" column="47" />
-        <mark key="." line="272" column="47" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503411069120">
+        <mark key="a" line="254" column="69" />
+        <mark key="'" line="247" column="79" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="^" line="255" column="49" />
+        <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -187,13 +187,13 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1503407396223">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1503410275517">
         <mark key="a" line="120" column="39" />
-        <mark key="'" line="135" column="8" />
-        <mark key="[" line="106" column="50" />
-        <mark key="]" line="106" column="63" />
-        <mark key="^" line="106" column="63" />
-        <mark key="." line="106" column="63" />
+        <mark key="'" line="137" column="8" />
+        <mark key="[" line="123" column="17" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
+        <mark key="^" line="123" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" timestamp="1496603236189">
         <mark key="a" line="91" column="38" />
@@ -329,7 +329,6 @@
       <jump line="321" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="199" column="39" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="242" column="51" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="247" column="38" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="195" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="187" column="82" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="180" column="55" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -350,58 +349,59 @@
       <jump line="308" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="252" column="114" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="253" column="118" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="247" column="79" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGluaXRfZnJvbV9zdHJpbmcoY2xzLCBodG1sX3N0cik6CiAgICAgICAgIiIiCiAgICAgICAgUmVzZXQgdGhlIGRhdGEgc3RydWN0dXJlIHRvIGRhdGEgaW4gYW4gaHRtbCBzdHJpbmcKCiAgICAgICAgOnBhcmFtIGh0bWxfc3RyOiBUaGUgaHRtbCBzdHJpbmcgdG8gdXNlIGFzIGFuIGluaXRpYWxpemVyCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWxfc3RyLCAnaHRtbC5wYXJzZXInKQogICAgICAgIHJldHVybiBjbHMoc291cCkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpbml0X25ld190YWJsZShjbHMpOgogICAgICAgICIiIgogICAgICAgIGNyZWF0ZSBhIG5ldyBodG1sIHRhYmxlIG9iamVjdCB3aXRoIGJsYW5rIGhlYWQgYW5kIGJvZHkKCiAgICAgICAgOnBhcmFtCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgoKICAgICAgICBkZWZhdWx0X3N0ciA9ICc8dGFibGUgYm9yZGVyPSIxIj48dGhlYWQ+PC90aGVhZD48dGJvZHk+PC90Ym9keT48L3RhYmxlPicKICAgICAgICByZXR1cm4gY2xzLmluaXRfZnJvbV9zdHJpbmcoZGVmYXVsdF9zdHIpCgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>detail_table</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFswLCAwLCAwLCAwLCAwLCAwLCAwLCAwXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>detail_table</text>
+        <text>Info</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>NO_PLAN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X2VtYWlsLmFwcGVuZF90YWJsZShkZXRhaWxfdGFibGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2VtYWlsLmFwcGVuZF90b19ib2R5KCdoMScsIHNlY3Rpb25LZXkgKyAnIC0gJyArIHN0cih0b3RhbF9yaXNrX2NvdW50KSArICcgVG90YWwgUmlza3MnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFswLCAwLCAwLCAwLCAwLCAwLCAwLCAwXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X2VtYWlsLmFwcGVuZF90b19ib2R5KCdoMScsIHNlY3Rpb25LZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3RvdGFsLCBieV9kZXNpZ24sIG1pc3NlZCwgbm9fcGxhbiwgcGxhbm5lZF8zMCwgcGxhbm5lZF82MCwgcGxhbm5lZF85MCwgcGxhbm5lZF9vdGhlcl0gPSBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByZXZpb3VzX3Jpc2tfbmFtZSAhPSAnJyk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdW1tYXJ5X3RhYmxlLmFkZF9yb3dfZnJvbV9jb2x1bW5zKFtwcmV2aW91c19yaXNrX25hbWUgKyBwcmV2aW91c19yaXNrX3R5cGUsIHN0cih0b3RhbCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHByZXZpb3VzX3Jpc2tfbmFtZSAhPSAnJyk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyKHBsYW5uZWRfb3RoZXIpXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyKHBsYW5uZWRfMzApLCBzdHIocGxhbm5lZF82MCksIHN0cihwbGFubmVkXzkwKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VtbWFyeV90YWJsZS5hZGRfcm93X2Zyb21fY29sdW1ucyhbdXJsLCBzdHIodG90YWwpLCBzdHIoYnlfZGVzaWduKSwgc3RyKG1pc3NlZCksIHN0cihub19wbGFuKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdW1tYXJ5X3RhYmxlLmFkZF9yb3dfZnJvbV9jb2x1bW5zKFt1cmwsIHN0cih0b3RhbCksIHN0cihieV9kZXNpZ24pLCBzdHIobWlzc2VkKSwgc3RyKG5vX3BsYW4pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cihwbGFubmVkXzMwKSwgc3RyKHBsYW5uZWRfNjApLCBzdHIocGxhbm5lZF85MCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyKHBsYW5uZWRfb3RoZXIpXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>NO_PLAN</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>NO_PLAN</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -409,7 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>init</entry>
         <entry>__init</entry>
         <entry>args</entry>
         <entry>save</entry>
@@ -429,6 +428,7 @@
         <entry>TRUE</entry>
         <entry>FALSE</entry>
         <entry>,</entry>
+        <entry>NO_PLAN</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+3s/cmd/row/g</entry>
