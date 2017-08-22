@@ -52,13 +52,13 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503422863329">
-        <mark key="a" line="246" column="12" />
-        <mark key="'" line="377" column="24" />
-        <mark key="[" line="378" column="53" />
-        <mark key="]" line="378" column="53" />
-        <mark key="^" line="378" column="53" />
-        <mark key="." line="378" column="53" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503424249571">
+        <mark key="a" line="378" column="0" />
+        <mark key="'" line="162" column="25" />
+        <mark key="[" line="128" column="26" />
+        <mark key="]" line="128" column="32" />
+        <mark key="^" line="128" column="32" />
+        <mark key="." line="128" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -187,12 +187,12 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1503422790260">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1503423999287">
         <mark key="a" line="157" column="45" />
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="133" column="13" />
-        <mark key="]" line="133" column="12" />
-        <mark key="." line="133" column="12" />
+        <mark key="[" line="146" column="30" />
+        <mark key="]" line="146" column="30" />
+        <mark key="." line="146" column="30" />
         <mark key="^" line="133" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" timestamp="1496603236189">
@@ -250,9 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="142" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="367" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="126" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="135" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -350,19 +347,22 @@
       <jump line="351" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="377" column="24" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="378" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="128" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="162" column="25" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGluaXRfZnJvbV9zdHJpbmcoY2xzLCBodG1sX3N0cik6CiAgICAgICAgIiIiCiAgICAgICAgUmVzZXQgdGhlIGRhdGEgc3RydWN0dXJlIHRvIGRhdGEgaW4gYW4gaHRtbCBzdHJpbmcKCiAgICAgICAgOnBhcmFtIGh0bWxfc3RyOiBUaGUgaHRtbCBzdHJpbmcgdG8gdXNlIGFzIGFuIGluaXRpYWxpemVyCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWxfc3RyLCAnaHRtbC5wYXJzZXInKQogICAgICAgIHJldHVybiBjbHMoc291cCkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpbml0X25ld190YWJsZShjbHMpOgogICAgICAgICIiIgogICAgICAgIGNyZWF0ZSBhIG5ldyBodG1sIHRhYmxlIG9iamVjdCB3aXRoIGJsYW5rIGhlYWQgYW5kIGJvZHkKCiAgICAgICAgOnBhcmFtCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgoKICAgICAgICBkZWZhdWx0X3N0ciA9ICc8dGFibGUgYm9yZGVyPSIxIj48dGhlYWQ+PC90aGVhZD48dGJvZHk+PC90Ym9keT48L3RhYmxlPicKICAgICAgICByZXR1cm4gY2xzLmluaXRfZnJvbV9zdHJpbmcoZGVmYXVsdF9zdHIpCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>args</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
-        <text>Summary</text>
+        <text>arg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3RhbCArPSByZXBvcnRfc2VjdGlvbnNbc2VjdGlvbktleV1bZW50cnldWydUb3RhbCddCiAgICAgICAgICAgICAgICAgICAgYnlfZGVzaWduICs9IHJlcG9ydF9zZWN0aW9uc1tzZWN0aW9uS2V5XVtlbnRyeV1bJ0JZX0RFU0lHTiddCiAgICAgICAgICAgICAgICAgICAgbWlzc2VkICs9IHJlcG9ydF9zZWN0aW9uc1tzZWN0aW9uS2V5XVtlbnRyeV1bJ01JU1NFRCddCiAgICAgICAgICAgICAgICAgICAgbm9fcGxhbiArPSByZXBvcnRfc2VjdGlvbnNbc2VjdGlvbktleV1bZW50cnldWydOTyBQTEFOJ10KICAgICAgICAgICAgICAgICAgICBwbGFubmVkXzMwICs9IHJlcG9ydF9zZWN0aW9uc1tzZWN0aW9uS2V5XVtlbnRyeV1bJ1BMQU5ORURfMzAnXQogICAgICAgICAgICAgICAgICAgIHBsYW5uZWRfNjAgKz0gcmVwb3J0X3NlY3Rpb25zW3NlY3Rpb25LZXldW2VudHJ5XVsnUExBTk5FRF82MCddCiAgICAgICAgICAgICAgICAgICAgcGxhbm5lZF85MCArPSByZXBvcnRfc2VjdGlvbnNbc2VjdGlvbktleV1bZW50cnldWydQTEFOTkVEXzkwJ10KICAgICAgICAgICAgICAgICAgICBwbGFubmVkX290aGVyICs9IHJlcG9ydF9zZWN0aW9uc1tzZWN0aW9uS2V5XVtlbnRyeV1bJ1BMQU5ORURfT1RIRVInXQo=</text>
@@ -399,9 +399,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Summary</last-search>
+      <last-search>arg</last-search>
       <last-offset />
-      <last-pattern>Summary</last-pattern>
+      <last-pattern>arg</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -409,8 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email_to</entry>
-        <entry>configs</entry>
         <entry>total_risks</entry>
         <entry>write_wow_</entry>
         <entry>all_keys</entry>
@@ -429,6 +427,8 @@
         <entry>0, 0</entry>
         <entry>+=</entry>
         <entry>Summary</entry>
+        <entry>write_current_summary</entry>
+        <entry>arg</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+3s/cmd/row/g</entry>
