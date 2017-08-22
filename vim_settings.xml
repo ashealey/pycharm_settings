@@ -25,7 +25,7 @@
         <mark key="^" line="84" column="3" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1503369441886">
+      <file name="/a.dummy" timestamp="1503373534942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" timestamp="1501605885686">
@@ -45,20 +45,20 @@
       <file name="/PyFunctionTypeComment Fragment (HTMLTable.py:6816).functionTypeComment" timestamp="1497371680323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" timestamp="1503360009355">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" timestamp="1503370291286">
         <mark key="'" line="16" column="20" />
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503369258417">
-        <mark key="a" line="118" column="63" />
-        <mark key="'" line="329" column="112" />
-        <mark key="[" line="330" column="105" />
-        <mark key="]" line="330" column="117" />
-        <mark key="^" line="330" column="117" />
-        <mark key="." line="330" column="117" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503373983825">
+        <mark key="a" line="282" column="63" />
+        <mark key="'" line="144" column="18" />
+        <mark key="[" line="102" column="55" />
+        <mark key="]" line="103" column="26" />
+        <mark key="^" line="103" column="26" />
+        <mark key="." line="103" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -187,11 +187,13 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1503369602590">
-        <mark key="[" line="22" column="47" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1503373796492">
+        <mark key="a" line="144" column="8" />
+        <mark key="'" line="144" column="8" />
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="45" />
+        <mark key="." line="140" column="45" />
+        <mark key="^" line="140" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" timestamp="1496603236189">
         <mark key="a" line="91" column="38" />
@@ -248,51 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="174" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="179" column="51" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="182" column="14" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="184" column="71" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="189" column="44" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="191" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="193" column="91" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="224" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="99" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="131" column="113" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="136" column="34" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/platform-severities.csv" />
-      <jump line="151" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="172" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="272" column="57" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="141" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="275" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="236" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="11" column="25" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/idas-riskPriorities.csv" />
-      <jump line="127" column="63" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="163" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="25" column="61" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="4" column="34" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="289" column="45" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="284" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="133" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="290" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="181" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="224" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="29" column="70" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="232" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="20" column="74" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="52" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="22" column="29" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="46" column="63" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="325" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="337" column="54" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
-      <jump line="241" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="186" column="47" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="175" column="44" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="180" column="97" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="192" column="11" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="194" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -305,7 +262,6 @@
       <jump line="234" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
       <jump line="296" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="27" column="37" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="86" column="17" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="32" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
@@ -313,8 +269,6 @@
       <jump line="17" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
       <jump line="31" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
       <jump line="59" column="17" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
-      <jump line="254" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="33" column="47" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="267" column="90" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -332,7 +286,6 @@
       <jump line="43" column="3" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="45" column="14" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="279" column="9" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="282" column="7" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="283" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="285" column="24" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="288" column="21" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -348,71 +301,114 @@
       <jump line="158" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
       <jump line="131" column="56" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
       <jump line="113" column="68" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="133" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="142" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="367" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="126" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="135" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="138" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="155" column="14" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="156" column="20" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="160" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="169" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="98" column="66" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="301" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="325" column="70" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="334" column="82" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="27" column="20" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="52" column="20" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="264" column="51" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="318" column="100" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="320" column="91" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="331" column="59" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="77" column="27" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="3" column="5" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="122" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="28" column="63" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="124" column="60" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="254" column="92" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="329" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="333" column="32" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="337" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="340" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="40" column="11" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="274" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="262" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="114" column="55" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="144" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="282" column="63" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="355" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="297" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="295" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="81" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="190" column="82" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="290" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="144" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGluaXRfZnJvbV9zdHJpbmcoY2xzLCBodG1sX3N0cik6CiAgICAgICAgIiIiCiAgICAgICAgUmVzZXQgdGhlIGRhdGEgc3RydWN0dXJlIHRvIGRhdGEgaW4gYW4gaHRtbCBzdHJpbmcKCiAgICAgICAgOnBhcmFtIGh0bWxfc3RyOiBUaGUgaHRtbCBzdHJpbmcgdG8gdXNlIGFzIGFuIGluaXRpYWxpemVyCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgogICAgICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWxfc3RyLCAnaHRtbC5wYXJzZXInKQogICAgICAgIHJldHVybiBjbHMoc291cCkKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpbml0X25ld190YWJsZShjbHMpOgogICAgICAgICIiIgogICAgICAgIGNyZWF0ZSBhIG5ldyBodG1sIHRhYmxlIG9iamVjdCB3aXRoIGJsYW5rIGhlYWQgYW5kIGJvZHkKCiAgICAgICAgOnBhcmFtCiAgICAgICAgOnJldHVybgogICAgICAgICIiIgoKICAgICAgICAjIGNyZWF0ZSBhIHNvdXAgb2JqZWN0IGZyb20gdGhlIHN0cmluZyBhbmQgdXNlIHRoZSBub3JtYWwgX19pbml0X18gdG8KICAgICAgICAjIGNvbXBsZXRlIHRoZSBpbml0aWFsaXphdGlvbgoKICAgICAgICBkZWZhdWx0X3N0ciA9ICc8dGFibGUgYm9yZGVyPSIxIj48dGhlYWQ+PC90aGVhZD48dGJvZHk+PC90Ym9keT48L3RhYmxlPicKICAgICAgICByZXR1cm4gY2xzLmluaXRfZnJvbV9zdHJpbmcoZGVmYXVsdF9zdHIpCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW1haWxfc3ViamVjdCcpCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW1haWxfc2F2ZW9ubHknLCBhY3Rpb249J3N0b3JlX2NvbnN0JywgY29uc3Q9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW1haWxfc2F2ZWZpbGUnKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihzdW1tYXJ5X2ZpbGVuYW1lLCAndycpIGFzIGRpZmZGaWxlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW1haWxfZGVidWcnLCBhY3Rpb249J3N0b3JlX2NvbnN0JywgY29uc3Q9VHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tTG93JywgYWN0aW9uPSdzdG9yZV9jb25zdCcsIGNvbnN0PVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNkZXRhaWxfdGFibGUuYWRkX3Jvd19mcm9tX2NvbHVtbnMoWyBbIFsnREFUQScsIFsnYScsIHVybF1dLFtdIF0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tQ3JpdGljYWwnLCBhY3Rpb249J3N0b3JlX2NvbnN0JywgY29uc3Q9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNkZXRhaWxfdGFibGUuYWRkX3Jvd19mcm9tX2NvbHVtbnMoW3Jpc2tfbmFtZSArICcgLSAnICsgcmlza190eXBlLCBvd25lciwgc3RyKHJlcG9ydFNlY3Rpb25zW3NlY3Rpb25LZXldW2VudHJ5XVsnVG90YWwnXSksCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1lbWFpbF9hdHRhY2hDU1ZfdG8nLCBhY3Rpb249J2FwcGVuZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1lbWFpbF9hdHRhY2hDU1Zfc3ViamVjdCcsIGRlZmF1bHQ9J0N1cnJlbnQgUG9saWN5IEVuZ2luZSBDU1YgRmlsZXMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1lbWFpbF9hdHRhY2hDU1ZfZnJvbScsIGRlZmF1bHQ9J25vYm9keUBhbWF6b24uY29tJykK</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgICByb3dzLmFwcGVuZCgnPHRyIGNsYXNzPSInICsgc2VjdGlvbkluZm9bc2VjdGlvbktleV1bJ1N0eWxlJ10gKyAnIj48dGQ+JyArIHJpc2tOYW1lICsgJzwvdGQ+PHRkPicgKyBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1lbWFpbF9ub19vd25lcnMnLCBhY3Rpb249J3N0b3JlX3RydWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgICByaXNrX3R5cGUgKyAnIj4nICsgcmlza19uYW1lICsgJyAtICcgKyByaXNrX3R5cGUgKyAnPC9hPicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>head</entry>
-        <entry>body</entry>
-        <entry>thead</entry>
-        <entry>alter</entry>
-        <entry>http</entry>
-        <entry>header</entry>
         <entry>h1</entry>
         <entry>H1</entry>
         <entry>H</entry>
@@ -426,7 +422,13 @@
         <entry>argv</entry>
         <entry>cfgDir</entry>
         <entry>noown</entry>
+        <entry>write</entry>
+        <entry>debug</entry>
+        <entry>sever</entry>
         <entry>init</entry>
+        <entry>__init</entry>
+        <entry>args</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
