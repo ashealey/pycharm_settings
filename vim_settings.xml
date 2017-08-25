@@ -3,61 +3,62 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1497316739863">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MultiOrderedDict/MultiOrderedDict.py" timestamp="1503341927930">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1503444566006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1497128071968">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/fragment.py" timestamp="1503444360629">
+        <mark key="'" line="0" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/PVCSFile.py" timestamp="1496787997409">
-        <mark key="a" line="17" column="11" />
-        <mark key="'" line="7" column="13" />
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="26" />
-        <mark key="^" line="39" column="26" />
-        <mark key="." line="39" column="26" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/ToolsEventsFile/parseToolsEventDump.py" timestamp="1498585712612">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="84" column="3" />
+        <mark key="." line="84" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1497156742809">
+      <file name="/a.dummy" timestamp="1503426297303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" timestamp="1496603236189">
-        <mark key="a" line="91" column="38" />
-        <mark key="'" line="112" column="19" />
-        <mark key="[" line="168" column="77" />
-        <mark key="]" line="169" column="49" />
-        <mark key="." line="169" column="49" />
-        <mark key="^" line="169" column="49" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" timestamp="1501605885686">
+        <mark key="'" line="89" column="33" />
+        <mark key="[" line="41" column="81" />
+        <mark key="]" line="41" column="81" />
+        <mark key="^" line="41" column="33" />
+        <mark key="." line="41" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" timestamp="1497141474116">
-        <mark key="'" line="3" column="34" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="100" column="44" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/IDASPatching.py" timestamp="1497375909607">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+        <mark key="^" line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" timestamp="1496638675570">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" timestamp="1497215536094">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1496620733970">
+      <file name="/PyFunctionTypeComment Fragment (HTMLTable.py:6816).functionTypeComment" timestamp="1497371680323">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/TestJSON.py" timestamp="1496691347588">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="8" column="99" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" timestamp="1503444228467">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503447149994">
+        <mark key="a" line="383" column="13" />
+        <mark key="'" line="340" column="25" />
+        <mark key="[" line="342" column="92" />
+        <mark key="]" line="342" column="94" />
+        <mark key="^" line="342" column="94" />
+        <mark key="." line="342" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -67,24 +68,93 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COE.py" timestamp="1496640481752">
-        <mark key="'" line="297" column="9" />
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
-        <mark key="." line="292" column="0" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/parsePVCSHostDump.py" timestamp="1501602136833">
+        <mark key="'" line="50" column="104" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="50" column="120" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/IDASPatching.py" timestamp="1496960442374">
-        <mark key="'" line="12" column="22" />
-        <mark key="[" line="22" column="98" />
-        <mark key="]" line="22" column="99" />
-        <mark key="." line="22" column="99" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/cp-severities.csv" timestamp="1502489281534">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="2" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" timestamp="1497157255325">
-        <mark key="'" line="197" column="12" />
-        <mark key="[" line="102" column="20" />
-        <mark key="]" line="103" column="22" />
-        <mark key="^" line="103" column="22" />
-        <mark key="." line="103" column="22" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" timestamp="1503444801766">
+        <mark key="a" line="351" column="0" />
+        <mark key="'" line="342" column="49" />
+        <mark key="[" line="345" column="109" />
+        <mark key="]" line="345" column="113" />
+        <mark key="^" line="345" column="113" />
+        <mark key="." line="345" column="113" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched.py" timestamp="1501609847681">
+        <mark key="a" line="7" column="52" />
+        <mark key="'" line="26" column="39" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="101" />
+        <mark key="." line="33" column="101" />
+        <mark key="^" line="33" column="101" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" timestamp="1503435465145">
+        <mark key="'" line="35" column="46" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/neverPatched_panda.py" timestamp="1501695605197">
+        <mark key="a" line="16" column="25" />
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503500582584">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MultiDict/MultiDict.py" timestamp="1503343073777">
+        <mark key="'" line="8" column="49" />
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="84" />
+        <mark key="^" line="6" column="84" />
+        <mark key="." line="6" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MultiDict/Multi_dict.py" timestamp="1503435293476">
+        <mark key="'" line="40" column="54" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/platform-severities.csv" timestamp="1502589180712">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEActionItem.py" timestamp="1496757136925">
+        <mark key="'" line="279" column="30" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="290" column="7" />
+        <mark key="." line="290" column="7" />
+        <mark key="^" line="290" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/ToolsEventFile/parseToolsEventDump.py" timestamp="1498588500552">
+        <mark key="'" line="83" column="93" />
+        <mark key="[" line="26" column="84" />
+        <mark key="]" line="26" column="85" />
+        <mark key="." line="26" column="85" />
+        <mark key="^" line="26" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" timestamp="1503343497081">
+        <mark key="'" line="51" column="60" />
+        <mark key="[" line="181" column="36" />
+        <mark key="]" line="183" column="29" />
+        <mark key="." line="183" column="29" />
+        <mark key="^" line="183" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/TestWebPage.py" timestamp="1497245732380">
         <mark key="'" line="7" column="8" />
@@ -93,251 +163,282 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/data/praeritg_20170521.curl" timestamp="1497070500286">
-        <mark key="'" line="586" column="0" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/etc/defaults.cfg" timestamp="1501289589612">
+        <mark key="[" line="107" column="5" />
+        <mark key="]" line="108" column="11" />
+        <mark key="^" line="108" column="11" />
+        <mark key="." line="108" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" timestamp="1496788241203">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/idas-riskPriorities.csv" timestamp="1502772267924">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="67" />
+        <mark key="." line="1" column="67" />
+        <mark key="^" line="1" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/addOrg.sh" timestamp="1499374389486">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="61" column="115" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" timestamp="1497760819463">
+        <mark key="'" line="25" column="11" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1503447693539">
+        <mark key="a" line="168" column="73" />
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="168" column="81" />
+        <mark key="]" line="168" column="88" />
+        <mark key="." line="168" column="88" />
+        <mark key="^" line="168" column="88" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" timestamp="1496603236189">
+        <mark key="a" line="91" column="38" />
+        <mark key="'" line="112" column="19" />
+        <mark key="[" line="168" column="77" />
+        <mark key="]" line="169" column="49" />
+        <mark key="." line="169" column="49" />
+        <mark key="^" line="169" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/edocktor_default.cfg" timestamp="1503444420204">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" timestamp="1497761052464">
+        <mark key="a" line="305" column="106" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="307" column="66" />
+        <mark key="]" line="307" column="84" />
+        <mark key="." line="307" column="84" />
+        <mark key="^" line="307" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" timestamp="1499374395532">
         <mark key="a" line="80" column="4" />
-        <mark key="'" line="61" column="21" />
-        <mark key="[" line="91" column="29" />
-        <mark key="]" line="91" column="30" />
-        <mark key="^" line="51" column="11" />
-        <mark key="." line="91" column="30" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="33" />
+        <mark key="." line="60" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" timestamp="1497304678412">
-        <mark key="a" line="179" column="43" />
-        <mark key="'" line="155" column="20" />
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="40" column="39" />
-        <mark key="^" line="40" column="39" />
-        <mark key="." line="40" column="39" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" timestamp="1497413656510">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="67" column="49" />
+        <mark key="]" line="68" column="46" />
+        <mark key="^" line="68" column="46" />
+        <mark key="." line="68" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" timestamp="1496763195683">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" timestamp="1503272483808">
         <mark key="a" line="91" column="29" />
-        <mark key="'" line="206" column="8" />
-        <mark key="[" line="157" column="39" />
-        <mark key="]" line="157" column="42" />
-        <mark key="^" line="157" column="42" />
-        <mark key="." line="157" column="42" />
+        <mark key="'" line="169" column="53" />
+        <mark key="[" line="158" column="34" />
+        <mark key="]" line="158" column="34" />
+        <mark key="^" line="155" column="18" />
+        <mark key="." line="158" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Test/Test.py" timestamp="1497316738161" />
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEActionItem.py" timestamp="1496757136925">
-        <mark key="'" line="279" column="30" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="290" column="7" />
-        <mark key="." line="290" column="7" />
-        <mark key="^" line="290" column="7" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/PVCSFile.py" timestamp="1501602059792">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="29" column="127" />
+        <mark key="]" line="29" column="135" />
+        <mark key="^" line="29" column="135" />
+        <mark key="." line="29" column="135" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" timestamp="1496640451807">
-        <mark key="a" line="9" column="0" />
-        <mark key="'" line="294" column="48" />
-        <mark key="[" line="318" column="57" />
-        <mark key="]" line="321" column="3" />
-        <mark key="." line="321" column="3" />
-        <mark key="^" line="321" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/parsePVCSHostDump.py" timestamp="1496788081120">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="32" column="37" />
-        <mark key="]" line="33" column="26" />
-        <mark key="^" line="33" column="26" />
-        <mark key="." line="33" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" timestamp="1496784166805">
-        <mark key="'" line="89" column="33" />
-        <mark key="[" line="41" column="81" />
-        <mark key="]" line="41" column="81" />
-        <mark key="^" line="41" column="33" />
-        <mark key="." line="41" column="81" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/addOrg.sh" timestamp="1496786868281">
-        <mark key="a" line="34" column="0" />
-        <mark key="'" line="63" column="61" />
-        <mark key="[" line="63" column="96" />
-        <mark key="]" line="63" column="114" />
-        <mark key="^" line="63" column="114" />
-        <mark key="." line="63" column="114" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" timestamp="1497760758362">
+        <mark key="'" line="38" column="37" />
+        <mark key="[" line="44" column="88" />
+        <mark key="]" line="44" column="89" />
+        <mark key="." line="44" column="89" />
+        <mark key="^" line="44" column="89" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="1" column="34" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="225" column="24" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="184" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="144" column="53" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="145" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="146" column="25" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="185" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="194" column="10" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="208" column="58" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="41" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="44" column="10" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="32" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="33" column="13" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="82" column="38" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="202" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="34" column="24" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="200" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="97" column="61" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" />
-      <jump line="58" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" />
-      <jump line="57" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="140" column="20" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="112" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" />
-      <jump line="155" column="42" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="231" column="54" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
-      <jump line="294" column="3" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
-      <jump line="275" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
-      <jump line="8" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
-      <jump line="0" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
-      <jump line="2" column="11" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/etc/defaults.cfg" />
-      <jump line="206" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/MicroficheFile.py" />
-      <jump line="210" column="12" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/genCOEReport.py" />
-      <jump line="210" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="300" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="289" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="294" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEReport.py" />
-      <jump line="295" column="9" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COE.py" />
-      <jump line="12" column="22" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/IDASPatching.py" />
-      <jump line="279" column="30" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/COEReport/COEActionItem.py" />
-      <jump line="43" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="89" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/ParseMicrofiche.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="11" column="39" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="14" column="80" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="52" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="35" column="14" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="49" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" />
-      <jump line="53" column="61" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/addOrg.sh" />
-      <jump line="213" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" />
-      <jump line="67" column="160" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/parsePVCSHostDump.py" />
-      <jump line="23" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/PVCSFile.py" />
-      <jump line="7" column="13" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/PVCSFile.py" />
-      <jump line="82" column="58" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" />
-      <jump line="50" column="5" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" />
-      <jump line="60" column="121" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" />
-      <jump line="61" column="21" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PVCSFile/runDate.sh" />
-      <jump line="2" column="77" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/TestWebPage.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="6" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/TestWebPage.py" />
-      <jump line="66" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/data/praeritg_20170521.curl" />
-      <jump line="342" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/data/praeritg_20170521.curl" />
-      <jump line="2259" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/data/praeritg_20170521.curl" />
-      <jump line="709" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/data/praeritg_20170521.curl" />
-      <jump line="692" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/data/praeritg_20170521.curl" />
-      <jump line="586" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/data/praeritg_20170521.curl" />
-      <jump line="100" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="111" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="99" column="34" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="3" column="34" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/AmazonWebPage/AmazonWebPage.py" />
-      <jump line="3" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="24" column="7" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="129" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="153" column="84" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
-      <jump line="155" column="20" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLTable/HTMLTable.py" />
+      <jump line="199" column="39" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="242" column="51" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="187" column="82" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="180" column="55" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" />
+      <jump line="83" column="53" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="310" column="60" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="276" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="80" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="275" column="72" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="79" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="204" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="281" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="330" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="29" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="337" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="308" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="252" column="114" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="253" column="118" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="247" column="79" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="226" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="261" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="262" column="30" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="263" column="27" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="264" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="265" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="266" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="267" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="298" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="351" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="377" column="24" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="162" column="25" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="164" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="195" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="284" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="286" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="291" column="69" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="152" column="40" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="348" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="128" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="378" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="385" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="208" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="139" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="118" column="30" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="144" column="84" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="103" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="133" column="13" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="154" column="10" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="158" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="55" column="93" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="72" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="151" column="15" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="157" column="51" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="150" column="58" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="74" column="27" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="106" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="107" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="108" column="9" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="292" column="37" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="305" column="23" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="347" column="30" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="381" column="13" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="131" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="142" column="43" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="143" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="334" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="28" column="21" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
+      <jump line="37" column="71" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
+      <jump line="35" column="46" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/test.py" />
+      <jump line="13" column="68" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MultiDict/Multi_dict.py" />
+      <jump line="40" column="54" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/MultiDict/Multi_dict.py" />
+      <jump line="55" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="25" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="27" column="28" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="32" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="174" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="170" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="28" column="31" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" />
+      <jump line="148" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="343" column="50" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="342" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/HTMLEmail/HTMLEmail.py" />
+      <jump line="371" column="74" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="135" column="40" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="162" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="127" column="35" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="340" column="25" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="136" column="18" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="168" column="73" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">CiAgICBhZ2UgPSBFbnVtKCdhZ2UnLCB7J2xhdGUnOiBkYXlzX2xhdGUsICdwZW5kaW5nJzogZGF5c19wZW5kaW5nLCAnd2FybmluZyc6IGRheXNfd2FybmluZywKICAgICAgICAgICAgICAgICAgICAgICAnbWF4RGF5c0FjdGlvbic6IG1heF9kYXlzX2FjdGlvbiwgJ21heERheXNDT0UnOiBtYXhfZGF5c19jb2V9KQo=</text>
+        <text encoding="base64">IyBQcmludCBDdXJyZW50IFN1bW1hcnkKZGVmIHdyaXRlX3N1bW1hcnlfY3N2X2ZpbGUoY29uZmlncywgdmlvbGF0aW9ucyk6CgogICAgIyBTZXQgdXAgdGhlIGNzdiBjb2x1bW4gbmFtZXMgZm9yIHRoZSBoZWFkZXIgcmVjb3JkCiAgICAjIHVzZXMgdGhlIHZhbHVlIGZyb20gdGhlIHNldmVyaXRpZXMgZGljdCgpIGFzIHRoZSBkZWZhdWx0IG9yZGVyaW5nIHRvIGZvcmNlIGNvbHVtbiBvcmRlcgogICAgZGlmZl9maWVsZHMgPSBbJ09yZ1ByaW9yaXR5JywgJ05hbWUnLCAnT3ZlcmFsbFRvdGFsJywgJ1RvdGFsUmlza3MnXQogICAgIyBmb3Igc2V2ZXJpdHkgaW4gc29ydGVkKGN1cnJlbnRTdW1tYXJ5LnNldmVyaXRpZXMua2V5cygpKToKICAgIGZvciBzZXZlcml0eSBpbiBzb3J0ZWQodmlvbGF0aW9ucy5zZXZlcml0aWVzLmtleXMoKSwga2V5PXZpb2xhdGlvbnMuc2V2ZXJpdGllcy5fX2dldGl0ZW1fXyk6CiAgICAgICAgZGlmZl9maWVsZHMuYXBwZW5kKHNldmVyaXR5KQoKICAgICMgb3BlbiB0aGUgZmlsZSBhbmQgQ1NWIHdyaXRlciwgd3JpdGluZyBhIGhlYWRlciByZWNvcmQKICAgIHdpdGggb3Blbihjb25maWdkWydkYXRhX2RpcmVjdG9yeScgKyB2aW9sYXRpb25zLnN1bW1hcnlfZmlsZW5hbWUsICd3JykgYXMgc3VtbWFyeV9maWxlOgogICAgICAgIHN1bW1hcnlfY3N2ID0gY3N2LkRpY3RXcml0ZXIoc3VtbWFyeV9maWxlLCBmaWVsZG5hbWVzPWRpZmZfZmllbGRzKQogICAgc3VtbWFyeV9jc3Yud3JpdGVoZWFkZXIoKQoKICAgICMgZm9yIGVhY2gga2V5IGluIHRoZSBjdXJyZW50IGxpc3Qgb2YgdmlvbGF0aW9ucwogICAgZm9yIGtleSBpbiBzb3J0ZWQodmlvbGF0aW9ucy5zdW1tYXJ5LmtleXMoKSk6CgogICAgIyBnZXQgdGhlIGN1cnJlbnQgc3VtbWFyeSBlbnRyeSBmb3IgdGhlIGxvb3Aga2V5CiAgICAgICAgY3VycmVudCA9IHZpb2xhdGlvbnMuc3VtbWFyeVtrZXldCgogICAgIyBwb3B1bGF0ZSBhbiBvdXRwdXQgQ1NWIHJvdyByZWNvcmQKICAgIHJvdyA9IGRpY3QoKQogICAgcm93WydOYW1lJ10gPSBrZXkKICAgIHJvd1snT3JnUHJpb3JpdHknXSA9IHZpb2xhdGlvbnMucmlza19wcmlvcml0aWVzLmdldChrZXksICctJykKICAgIHJvd1snT3ZlcmFsbFRvdGFsJ10gPSBjdXJyZW50Wyd0b3RhbCddCiAgICByb3dbJ1RvdGFsUmlza3MnXSA9IGN1cnJlbnRbJ3RvdGFsJ10gLSBjdXJyZW50LmdldCgnQnlEZXNpZ24nLDApCiAgICBmb3Igc2V2ZXJpdHkgaW4gdmlvbGF0aW9ucy5zZXZlcml0aWVzLmtleXMoKToKICAgICAgICByb3dbc2V2ZXJpdHldID0gY3VycmVudC5nZXQoc2V2ZXJpdHksIDApCgogICAgIyB3cml0ZSB0aGUgcmVjb3JkIHRvIHRoZSBmaWxlCiAgICBzdW1tYXJ5X2Nzdi53cml0ZXJvdyhyb3cpCgoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>row</text>
+        <text>from zipfile import ZipFile</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text>from zipfile import ZipFile</text>
       </register>
       <register name="/" type="4">
-        <text>make_row</text>
+        <text>defail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBhcHBlbmRfY29sdW1uX3RvX3JvdyhzZWxmLCByb3csIGNvbCk6CiAgICAgICAgIiIiCiAgICAgICAgQWRkIGEgbmV3IGNvbHVtbiB0byBhIHJvdyBvZiB0eXBlIHRkCgogICAgICAgIDpwYXJhbSByb3c6IHNvdXAgZW50cnkgZm9yIGV4aXN0aW5nIHJvdwogICAgICAgIDpwYXJhbSBjb2x1bW46IG5ldyBjb2x1bW4gb2YgZGF0YSB0byBhcHBlbmQgdG8gdGhlIHJvdwogICAgICAgIDpwYXJhbSBhdHRyaWJ1dGVzOiBsaXN0IG9mIGxpc3RzIC0gZWFjaCBlbnRyeSBpbiB0aGUgbWFpbiBsaXN0IGlzIGEga2V5L3ZhbHVlIHBhaXIgdG8gYWRkCiAgICAgICAgOnJldHVybjogCiAgICAgICAgIiIiCgogICAgICAgICMgY3JlYXRlIHRoZSBuZXcgY29sdW1uIHNvdXAgZW50cnkKICAgICAgICBzZWxmLl9fYXBwZW5kX2NvbHVtbl90b19yb3cocm93LCBjb2wsIGNvbF90eXBlPSd0ZCcpCgo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3NbJ2VtYWlsX3RvJ10gPSBjb25maWdzWydlbWFpbF90byddLnNwbGl0KCcsJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gY29sX3R5cGU6IGVpdGhlciB0ZCBvciB0aCBkZXBlbmRpbmcgb24gcm93IG9yIGhlYWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByb3cuYXBwZW5kKHRkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZC5zdHJpbmcgPSBzdHIoY29sKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZCA9IFRhZyhzZWxmLnNvdXAuYnVpbGRlciwgbmFtZT1jb2xfdHlwZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb25maWdzLmdldChzZWN0aW9uS2V5LCBGYWxzZSkgIT0gVHJ1ZToKICAgICAgICAgICAgY29udGludWUKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb25maWdzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29sIGluIGNvbHVtbnM6Cg==</text>
+        <text encoding="base64">ZW1haWxfdG89YmFsbGVzdGRAYW1hem9uLmNvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFwcGVuZCBlYWNoIGNvbCBhcyBhIG5ldyA8dGQ+IG9iamVjdAo=</text>
+        <text encoding="base64">c21haWxfdG89YmFsbGVzdGRAYW1hem9uLmNvbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TWVkaXVtPUZBTFNFCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>make_row</last-search>
+      <last-search>defail</last-search>
       <last-offset />
-      <last-pattern>make_row</last-pattern>
-      <last-replace>',</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>defail</last-pattern>
+      <last-replace>body</last-replace>
+      <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>__init</entry>
-        <entry>apply_</entry>
-        <entry>tuple</entry>
-        <entry>_make</entry>
-        <entry>__process_session_data__</entry>
-        <entry>Processed</entry>
-        <entry>datefmt</entry>
-        <entry>eventlist</entry>
-        <entry>debug</entry>
-        <entry>info</entry>
-        <entry>cmd</entry>
-        <entry>init_args</entry>
-        <entry>20170604</entry>
-        <entry>^</entry>
-        <entry>$</entry>
-        <entry>Av</entry>
-        <entry>c</entry>
-        <entry encoding="base64">PHRhYmxlPg==</entry>
-        <entry encoding="base64">PHRhYmxl</entry>
-        <entry>make_row</entry>
+        <entry>+=</entry>
+        <entry>Summary</entry>
+        <entry>arg</entry>
+        <entry>write_cur</entry>
+        <entry>write_current_summary</entry>
+        <entry>write_summary_report</entry>
+        <entry>sorted</entry>
+        <entry>data_dir</entry>
+        <entry>data_direc</entry>
+        <entry>TotalChange</entry>
+        <entry>wow_comp</entry>
+        <entry>summar</entry>
+        <entry>elsif</entry>
+        <entry>TRUE</entry>
+        <entry>FALSE</entry>
+        <entry>False</entry>
+        <entry>get-arg</entry>
+        <entry>split</entry>
+        <entry>join</entry>
+        <entry>defail</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
-        <entry>.,.+3s/cmd/row/g</entry>
         <entry encoding="base64">LiwkPDw=</entry>
         <entry>e COE.py</entry>
         <entry>w COE.py</entry>
@@ -346,7 +447,17 @@
         <entry>,'as/$/',/</entry>
         <entry>.,'as/$/',/</entry>
         <entry>:w</entry>
+        <entry>e!</entry>
+        <entry>.,.+3s/('[a-zA-Z]')/\1: row\[\1\]/g</entry>
+        <entry>.,.+3s/\('[a-zA-Z]'\)/\1: row\[\1\]/g</entry>
+        <entry>.,$s/header/body/g</entry>
+        <entry>n</entry>
         <entry encoding="base64">LiwnYT4=</entry>
+        <entry>wq</entry>
+        <entry>w'</entry>
+        <entry>q</entry>
+        <entry encoding="base64">LiwnYTw=</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -361,6 +472,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
