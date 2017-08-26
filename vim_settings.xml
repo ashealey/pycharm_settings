@@ -52,13 +52,13 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503447149994">
-        <mark key="a" line="383" column="13" />
-        <mark key="'" line="340" column="25" />
-        <mark key="[" line="342" column="92" />
-        <mark key="]" line="342" column="94" />
-        <mark key="^" line="342" column="94" />
-        <mark key="." line="342" column="94" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1503762362931">
+        <mark key="a" line="57" column="19" />
+        <mark key="'" line="344" column="25" />
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="35" />
+        <mark key="^" line="58" column="20" />
+        <mark key="." line="58" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -364,16 +364,16 @@
         <text encoding="base64">IyBQcmludCBDdXJyZW50IFN1bW1hcnkKZGVmIHdyaXRlX3N1bW1hcnlfY3N2X2ZpbGUoY29uZmlncywgdmlvbGF0aW9ucyk6CgogICAgIyBTZXQgdXAgdGhlIGNzdiBjb2x1bW4gbmFtZXMgZm9yIHRoZSBoZWFkZXIgcmVjb3JkCiAgICAjIHVzZXMgdGhlIHZhbHVlIGZyb20gdGhlIHNldmVyaXRpZXMgZGljdCgpIGFzIHRoZSBkZWZhdWx0IG9yZGVyaW5nIHRvIGZvcmNlIGNvbHVtbiBvcmRlcgogICAgZGlmZl9maWVsZHMgPSBbJ09yZ1ByaW9yaXR5JywgJ05hbWUnLCAnT3ZlcmFsbFRvdGFsJywgJ1RvdGFsUmlza3MnXQogICAgIyBmb3Igc2V2ZXJpdHkgaW4gc29ydGVkKGN1cnJlbnRTdW1tYXJ5LnNldmVyaXRpZXMua2V5cygpKToKICAgIGZvciBzZXZlcml0eSBpbiBzb3J0ZWQodmlvbGF0aW9ucy5zZXZlcml0aWVzLmtleXMoKSwga2V5PXZpb2xhdGlvbnMuc2V2ZXJpdGllcy5fX2dldGl0ZW1fXyk6CiAgICAgICAgZGlmZl9maWVsZHMuYXBwZW5kKHNldmVyaXR5KQoKICAgICMgb3BlbiB0aGUgZmlsZSBhbmQgQ1NWIHdyaXRlciwgd3JpdGluZyBhIGhlYWRlciByZWNvcmQKICAgIHdpdGggb3Blbihjb25maWdkWydkYXRhX2RpcmVjdG9yeScgKyB2aW9sYXRpb25zLnN1bW1hcnlfZmlsZW5hbWUsICd3JykgYXMgc3VtbWFyeV9maWxlOgogICAgICAgIHN1bW1hcnlfY3N2ID0gY3N2LkRpY3RXcml0ZXIoc3VtbWFyeV9maWxlLCBmaWVsZG5hbWVzPWRpZmZfZmllbGRzKQogICAgc3VtbWFyeV9jc3Yud3JpdGVoZWFkZXIoKQoKICAgICMgZm9yIGVhY2gga2V5IGluIHRoZSBjdXJyZW50IGxpc3Qgb2YgdmlvbGF0aW9ucwogICAgZm9yIGtleSBpbiBzb3J0ZWQodmlvbGF0aW9ucy5zdW1tYXJ5LmtleXMoKSk6CgogICAgIyBnZXQgdGhlIGN1cnJlbnQgc3VtbWFyeSBlbnRyeSBmb3IgdGhlIGxvb3Aga2V5CiAgICAgICAgY3VycmVudCA9IHZpb2xhdGlvbnMuc3VtbWFyeVtrZXldCgogICAgIyBwb3B1bGF0ZSBhbiBvdXRwdXQgQ1NWIHJvdyByZWNvcmQKICAgIHJvdyA9IGRpY3QoKQogICAgcm93WydOYW1lJ10gPSBrZXkKICAgIHJvd1snT3JnUHJpb3JpdHknXSA9IHZpb2xhdGlvbnMucmlza19wcmlvcml0aWVzLmdldChrZXksICctJykKICAgIHJvd1snT3ZlcmFsbFRvdGFsJ10gPSBjdXJyZW50Wyd0b3RhbCddCiAgICByb3dbJ1RvdGFsUmlza3MnXSA9IGN1cnJlbnRbJ3RvdGFsJ10gLSBjdXJyZW50LmdldCgnQnlEZXNpZ24nLDApCiAgICBmb3Igc2V2ZXJpdHkgaW4gdmlvbGF0aW9ucy5zZXZlcml0aWVzLmtleXMoKToKICAgICAgICByb3dbc2V2ZXJpdHldID0gY3VycmVudC5nZXQoc2V2ZXJpdHksIDApCgogICAgIyB3cml0ZSB0aGUgcmVjb3JkIHRvIHRoZSBmaWxlCiAgICBzdW1tYXJ5X2Nzdi53cml0ZXJvdyhyb3cpCgoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>from zipfile import ZipFile</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="-" type="4">
-        <text>from zipfile import ZipFile</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="/" type="4">
         <text>defail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3NbJ2VtYWlsX3RvJ10gPSBjb25maWdzWydlbWFpbF90byddLnNwbGl0KCcsJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maWdzW2FyZ10gPSBjb25maWdzLmdldChhcmcsICdub2JvZHlAYW1hem9uLmNvbicpICsgJywnICsgJywnLmpvaW4oZ2V0YXR0cihhcmdzLCBhcmcpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
