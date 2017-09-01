@@ -52,13 +52,13 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1504280360372">
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" timestamp="1504286102337">
         <mark key="a" line="57" column="19" />
-        <mark key="'" line="68" column="4" />
-        <mark key="[" line="190" column="75" />
-        <mark key="]" line="190" column="76" />
-        <mark key="." line="190" column="76" />
-        <mark key="^" line="190" column="76" />
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="190" column="46" />
+        <mark key="]" line="191" column="51" />
+        <mark key="^" line="191" column="51" />
+        <mark key="." line="191" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/Tmp/CSVPerf.py" timestamp="1496764305928">
         <mark key="a" line="32" column="0" />
@@ -189,12 +189,13 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1504280194107">
-        <mark key="a" line="181" column="73" />
-        <mark key="'" line="4" column="13" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" timestamp="1504285863699">
+        <mark key="a" line="180" column="73" />
+        <mark key="'" line="102" column="66" />
+        <mark key="[" line="82" column="30" />
+        <mark key="]" line="82" column="31" />
+        <mark key="^" line="78" column="36" />
+        <mark key="." line="82" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/src/PyCharm/IDAS/MicroficheFile/SessionCmds.py" timestamp="1496603236189">
         <mark key="a" line="91" column="38" />
@@ -257,14 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="51" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="187" column="82" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="180" column="55" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/etc/default.cfg" />
-      <jump line="83" column="53" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="310" column="60" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="276" column="26" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="80" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="275" column="72" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="79" column="33" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="204" column="48" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -290,7 +283,6 @@
       <jump line="93" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
       <jump line="162" column="25" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="164" column="41" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
-      <jump line="195" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="284" column="19" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="286" column="49" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
       <jump line="291" column="69" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
@@ -357,58 +349,67 @@
       <jump line="168" column="73" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
       <jump line="4" column="13" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
       <jump line="68" column="4" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="78" column="36" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="81" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="138" column="27" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="77" column="73" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="80" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="102" column="66" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/PolicyEngineReport.py" />
+      <jump line="195" column="76" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/src/PyCharm/IDAS/PolicyEngine/genPEReports.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">IyBQcmludCBDdXJyZW50IFN1bW1hcnkKZGVmIHdyaXRlX3N1bW1hcnlfY3N2X2ZpbGUoY29uZmlncywgdmlvbGF0aW9ucyk6CgogICAgIyBTZXQgdXAgdGhlIGNzdiBjb2x1bW4gbmFtZXMgZm9yIHRoZSBoZWFkZXIgcmVjb3JkCiAgICAjIHVzZXMgdGhlIHZhbHVlIGZyb20gdGhlIHNldmVyaXRpZXMgZGljdCgpIGFzIHRoZSBkZWZhdWx0IG9yZGVyaW5nIHRvIGZvcmNlIGNvbHVtbiBvcmRlcgogICAgZGlmZl9maWVsZHMgPSBbJ09yZ1ByaW9yaXR5JywgJ05hbWUnLCAnT3ZlcmFsbFRvdGFsJywgJ1RvdGFsUmlza3MnXQogICAgIyBmb3Igc2V2ZXJpdHkgaW4gc29ydGVkKGN1cnJlbnRTdW1tYXJ5LnNldmVyaXRpZXMua2V5cygpKToKICAgIGZvciBzZXZlcml0eSBpbiBzb3J0ZWQodmlvbGF0aW9ucy5zZXZlcml0aWVzLmtleXMoKSwga2V5PXZpb2xhdGlvbnMuc2V2ZXJpdGllcy5fX2dldGl0ZW1fXyk6CiAgICAgICAgZGlmZl9maWVsZHMuYXBwZW5kKHNldmVyaXR5KQoKICAgICMgb3BlbiB0aGUgZmlsZSBhbmQgQ1NWIHdyaXRlciwgd3JpdGluZyBhIGhlYWRlciByZWNvcmQKICAgIHdpdGggb3Blbihjb25maWdkWydkYXRhX2RpcmVjdG9yeScgKyB2aW9sYXRpb25zLnN1bW1hcnlfZmlsZW5hbWUsICd3JykgYXMgc3VtbWFyeV9maWxlOgogICAgICAgIHN1bW1hcnlfY3N2ID0gY3N2LkRpY3RXcml0ZXIoc3VtbWFyeV9maWxlLCBmaWVsZG5hbWVzPWRpZmZfZmllbGRzKQogICAgc3VtbWFyeV9jc3Yud3JpdGVoZWFkZXIoKQoKICAgICMgZm9yIGVhY2gga2V5IGluIHRoZSBjdXJyZW50IGxpc3Qgb2YgdmlvbGF0aW9ucwogICAgZm9yIGtleSBpbiBzb3J0ZWQodmlvbGF0aW9ucy5zdW1tYXJ5LmtleXMoKSk6CgogICAgIyBnZXQgdGhlIGN1cnJlbnQgc3VtbWFyeSBlbnRyeSBmb3IgdGhlIGxvb3Aga2V5CiAgICAgICAgY3VycmVudCA9IHZpb2xhdGlvbnMuc3VtbWFyeVtrZXldCgogICAgIyBwb3B1bGF0ZSBhbiBvdXRwdXQgQ1NWIHJvdyByZWNvcmQKICAgIHJvdyA9IGRpY3QoKQogICAgcm93WydOYW1lJ10gPSBrZXkKICAgIHJvd1snT3JnUHJpb3JpdHknXSA9IHZpb2xhdGlvbnMucmlza19wcmlvcml0aWVzLmdldChrZXksICctJykKICAgIHJvd1snT3ZlcmFsbFRvdGFsJ10gPSBjdXJyZW50Wyd0b3RhbCddCiAgICByb3dbJ1RvdGFsUmlza3MnXSA9IGN1cnJlbnRbJ3RvdGFsJ10gLSBjdXJyZW50LmdldCgnQnlEZXNpZ24nLDApCiAgICBmb3Igc2V2ZXJpdHkgaW4gdmlvbGF0aW9ucy5zZXZlcml0aWVzLmtleXMoKToKICAgICAgICByb3dbc2V2ZXJpdHldID0gY3VycmVudC5nZXQoc2V2ZXJpdHksIDApCgogICAgIyB3cml0ZSB0aGUgcmVjb3JkIHRvIHRoZSBmaWxlCiAgICBzdW1tYXJ5X2Nzdi53cml0ZXJvdyhyb3cpCgoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, 'Plan 120'])</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>, 'Plan 120'])</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>defail</text>
+        <text>csv_ver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGFpbF90YWJsZS5hZGRfaGVhZGVyX2Zyb21fY29sdW1ucyhbJ1Jpc2snLCAnT3duZXInLCAnVG90YWwnLCAnQnkgRGVzaWduJywgJ01pc3NlZCBQbGFuJywgJ05vIFBsYW4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnUGxhbiAzMCcsICdQbGFuIDYwJywgJ1BsYW4gOTAnLCAnUGxhbiAxMjAnXSkKICAgICAgICAgICAgICAgIHN1bW1hcnlfdGFibGUuYWRkX2hlYWRlcl9mcm9tX2NvbHVtbnMoWydSaXNrJywgJ1RvdGFsJywgJ0J5IERlc2lnbicsICdNaXNzZWQgUGxhbicsICdObyBQbGFuJywgJ1BsYW4gMzAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1BsYW4gNjAnLCAnUGxhbiA5MCcsICdQbGFuIDEyMCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGFpbF90YWJsZS5hZGRfaGVhZGVyX2Zyb21fY29sdW1ucyhbJ1Jpc2snLCAnT3duZXInLCAnVG90YWwnLCAnQnkgRGVzaWduJywgJ01pc3NlZCBQbGFuJywgJ1VuQWNrZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnUGxhbiAzMCcsICdQbGFuIDYwJywgJ1BsYW4gOTAnXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnUExBTk5FRF9PVEhFUic6IDB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bW1hcnlfdGFibGUuYWRkX2hlYWRlcl9mcm9tX2NvbHVtbnMoWydSaXNrJywgJ1RvdGFsJywgJ0J5IERlc2lnbicsICdNaXNzZWQgUGxhbicsICdVbkFja2VkJywgJ1BsYW4gMzAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1BsYW4gNjAnLCAnUGxhbiA5MCddKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1BsYW4gMzAnLCAnUGxhbiA2MCcsICdQbGFuIDkwJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldGFpbF90YWJsZS5hZGRfaGVhZGVyX2Zyb21fY29sdW1ucyhbJ1Jpc2snLCAnT3duZXInLCAnVG90YWwnLCAnQnkgRGVzaWduJywgJ01pc3NlZCBQbGFuJywgJ1VuQWNrZWQnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bW1hcnlfdGFibGUuYWRkX2hlYWRlcl9mcm9tX2NvbHVtbnMoWydSaXNrJywgJ1RvdGFsJywgJ0J5IERlc2lnbicsICdNaXNzZWQgUGxhbicsICdObyBQbGFuJywgJ1BsYW4gMzAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1BsYW4gNjAnLCAnUGxhbiA5MCcsICdQbGFuIDEyMCddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdmlvbGF0aW9ucy5jc3ZfdmVyc2lvbiA9PSAxOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb25maWdzLmdldChzZWN0aW9uS2V5LCBGYWxzZSkgIT0gVHJ1ZToKICAgICAgICAgICAgY29udGludWUKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1BsYW4gMzAnLCAnUGxhbiA2MCcsICdQbGFuIDkwJywgJ1BsYW4gMTIwJ10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb25maWdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvd1snUmVzb2x1dGlvbiddID0gJ1VOQUNLRUQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>defail</last-search>
+      <last-search>csv_ver</last-search>
       <last-offset />
-      <last-pattern>defail</last-pattern>
+      <last-pattern>csv_ver</last-pattern>
       <last-replace>body</last-replace>
       <last-substitute>header</last-substitute>
       <last-dir>1</last-dir>
@@ -416,8 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>+=</entry>
-        <entry>Summary</entry>
         <entry>arg</entry>
         <entry>write_cur</entry>
         <entry>write_current_summary</entry>
@@ -436,6 +435,8 @@
         <entry>split</entry>
         <entry>join</entry>
         <entry>defail</entry>
+        <entry>csv)ver</entry>
+        <entry>csv_ver</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">LiwkPDw=</entry>
